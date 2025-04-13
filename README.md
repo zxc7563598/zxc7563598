@@ -1,4 +1,31 @@
-## Hi there 👋
+# 👋 Hey，你好！
+
+我是何俊杰，一名居住在成都的 28 岁资深 PHP 工程师。写代码第 7 年，沉迷重构，热爱折腾。  
+能写前端、精通后端、搞得定运维，也会用 Go/Python 写点自动化脚本——全栈打工侠认证✔️  
+想找份靠谱的远程或成都本地 PHP 开发工作，欢迎 pick 👇
+
+📄 [个人网站](https://hejunjie.life) ｜ 📄 [我的简历](https://hejunjie.life/docx/%E7%AE%80%E5%8E%8620250406.pdf) ｜ 📞 19839737630 ｜ 📮 junjie.he.925@gmail.com
+
+---
+
+## 🚀 技术栈概览
+
+- **前端**：HTML / CSS / JavaScript / Vue / Element Plus / Vant4 / NaiveUI  
+- **后端**：PHP（ThinkPHP / Laravel / Webman）/ MySQL 优化 / Redis / 接口安全  
+- **运维**：LNMP / Docker / GitHub  
+- **其他**：微信公众号 / 小程序 / Composer 套件狂魔 / Go / Python
+
+---
+
+## 📢 正在找工作！
+
+我是一位喜欢整洁代码、注重架构设计的开发者，7 年+ 实战经验，主导过千万级别项目。  
+如果你的团队正在找 PHP 工程师、全栈开发、重构高手或开源玩家，请一定联系我！
+
+---
+
+👋 感谢你的阅读，祝你生活编码两开花。
+
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
