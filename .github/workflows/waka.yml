@@ -4,7 +4,10 @@ on:
   schedule:
     - cron: "0 0 * * *" # 每天 UTC 0 点更新（可自行改）
   workflow_dispatch:
-
+  
+permissions:
+  contents: write
+  
 jobs:
   update-readme:
     runs-on: ubuntu-latest
