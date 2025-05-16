@@ -24,6 +24,28 @@
 
 ---
 
+## 我最近在忙
+
+<p align="left">
+  <a href="https://github.com/zxc7563598/php-bilibili-danmu-core">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zxc7563598&repo=php-bilibili-danmu-core&theme=vue-dark" />
+  </a>
+  <a href="https://github.com/zxc7563598/php-bilibili-danmu">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zxc7563598&repo=php-bilibili-danmu&theme=vue-dark" />
+  </a>
+  <a href="https://github.com/zxc7563598/vue-bilibili-danmu-admin">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zxc7563598&repo=vue-bilibili-danmu-admin&theme=vue-dark" />
+  </a>
+  <a href="https://github.com/zxc7563598/vue-bilibili-danmu-shop">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zxc7563598&repo=vue-bilibili-danmu-shop&theme=vue-dark" />
+  </a>
+  <a href="https://github.com/zxc7563598/php-bilibili-danmu-docker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zxc7563598&repo=php-bilibili-danmu-docker&theme=vue-dark" />
+  </a>
+</p>
+
+---
+
 👋 感谢你的阅读，祝你生活编码两开花。
 
 
