@@ -28,11 +28,12 @@
 
 > 一套基于 PHP + Vue 的弹幕互动系统，支持消息处理、商城互动、后台管理及 Docker 部署。
 
-- 🔧 [php-bilibili-danmu-core](https://github.com/zxc7563598/php-bilibili-danmu-core) - 弹幕核心逻辑模块  
-- 🌐 [php-bilibili-danmu](https://github.com/zxc7563598/php-bilibili-danmu) - 后端服务接口  
-- 🛠️ [vue-bilibili-danmu-admin](https://github.com/zxc7563598/vue-bilibili-danmu-admin) - 后台管理界面  
-- 🛍️ [vue-bilibili-danmu-shop](https://github.com/zxc7563598/vue-bilibili-danmu-shop) - 前台商城页面  
-- 🐳 [php-bilibili-danmu-docker](https://github.com/zxc7563598/php-bilibili-danmu-docker) - 一键 Docker 部署
+
+[![Core](https://img.shields.io/badge/php--bilibili--danmu--core-核心模块-blueviolet?style=for-the-badge&logo=php)](https://github.com/zxc7563598/php-bilibili-danmu-core)
+[![API](https://img.shields.io/badge/php--bilibili--danmu-后端接口-007acc?style=for-the-badge&logo=php)](https://github.com/zxc7563598/php-bilibili-danmu)
+[![Admin](https://img.shields.io/badge/vue--bilibili--danmu--admin-管理后台-42b883?style=for-the-badge&logo=vue.js)](https://github.com/zxc7563598/vue-bilibili-danmu-admin)
+[![Shop](https://img.shields.io/badge/vue--bilibili--danmu--shop-商城前台-3eaf7c?style=for-the-badge&logo=vue.js)](https://github.com/zxc7563598/vue-bilibili-danmu-shop)
+[![Docker](https://img.shields.io/badge/php--bilibili--danmu--docker-Docker部署-2496ed?style=for-the-badge&logo=docker)](https://github.com/zxc7563598/php-bilibili-danmu-docker)
 
 ---
 
