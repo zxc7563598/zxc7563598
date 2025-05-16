@@ -26,23 +26,13 @@
 
 ## 我最近在忙
 
-<p align="left">
-  <a href="https://github.com/zxc7563598/php-bilibili-danmu-core">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zxc7563598&repo=php-bilibili-danmu-core&theme=vue-dark" />
-  </a>
-  <a href="https://github.com/zxc7563598/php-bilibili-danmu">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zxc7563598&repo=php-bilibili-danmu&theme=vue-dark" />
-  </a>
-  <a href="https://github.com/zxc7563598/vue-bilibili-danmu-admin">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zxc7563598&repo=vue-bilibili-danmu-admin&theme=vue-dark" />
-  </a>
-  <a href="https://github.com/zxc7563598/vue-bilibili-danmu-shop">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zxc7563598&repo=vue-bilibili-danmu-shop&theme=vue-dark" />
-  </a>
-  <a href="https://github.com/zxc7563598/php-bilibili-danmu-docker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zxc7563598&repo=php-bilibili-danmu-docker&theme=vue-dark" />
-  </a>
-</p>
+> 一套基于 PHP + Vue 的弹幕互动系统，支持消息处理、商城互动、后台管理及 Docker 部署。
+
+- 🔧 [php-bilibili-danmu-core](https://github.com/zxc7563598/php-bilibili-danmu-core) - 弹幕核心逻辑模块  
+- 🌐 [php-bilibili-danmu](https://github.com/zxc7563598/php-bilibili-danmu) - 后端服务接口  
+- 🛠️ [vue-bilibili-danmu-admin](https://github.com/zxc7563598/vue-bilibili-danmu-admin) - 后台管理界面  
+- 🛍️ [vue-bilibili-danmu-shop](https://github.com/zxc7563598/vue-bilibili-danmu-shop) - 前台商城页面  
+- 🐳 [php-bilibili-danmu-docker](https://github.com/zxc7563598/php-bilibili-danmu-docker) - 一键 Docker 部署
 
 ---
 
