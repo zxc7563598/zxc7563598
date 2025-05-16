@@ -26,14 +26,13 @@
 
 ## 我最近在忙
 
-> 一套基于 PHP + Vue 的弹幕互动系统，支持消息处理、商城互动、后台管理及 Docker 部署。
+> 一套基于 PHP + Vue 的弹幕互动系统，支持弹幕处理、礼物处理、积分商城、后台管理及 Docker 部署。
 
-
-[![Core](https://img.shields.io/badge/php--bilibili--danmu--core-核心模块-blueviolet?style=for-the-badge&logo=php)](https://github.com/zxc7563598/php-bilibili-danmu-core)
-[![API](https://img.shields.io/badge/php--bilibili--danmu-后端接口-007acc?style=for-the-badge&logo=php)](https://github.com/zxc7563598/php-bilibili-danmu)
-[![Admin](https://img.shields.io/badge/vue--bilibili--danmu--admin-管理后台-42b883?style=for-the-badge&logo=vue.js)](https://github.com/zxc7563598/vue-bilibili-danmu-admin)
-[![Shop](https://img.shields.io/badge/vue--bilibili--danmu--shop-商城前台-3eaf7c?style=for-the-badge&logo=vue.js)](https://github.com/zxc7563598/vue-bilibili-danmu-shop)
-[![Docker](https://img.shields.io/badge/php--bilibili--danmu--docker-Docker部署-2496ed?style=for-the-badge&logo=docker)](https://github.com/zxc7563598/php-bilibili-danmu-docker)
+[![Core](https://img.shields.io/badge/php--bilibili--danmu--core-B站交互核心模块-blueviolet?style=for-the-badge&logo=php)](https://github.com/zxc7563598/php-bilibili-danmu-core)
+[![Docker](https://img.shields.io/badge/php--bilibili--danmu--docker-Docker一键部署容器-2496ed?style=for-the-badge&logo=docker)](https://github.com/zxc7563598/php-bilibili-danmu-docker)
+[![API](https://img.shields.io/badge/php--bilibili--danmu-项目本体-007acc?style=for-the-badge&logo=php)](https://github.com/zxc7563598/php-bilibili-danmu)
+[![Admin](https://img.shields.io/badge/vue--bilibili--danmu--admin-前端：管理后台-42b883?style=for-the-badge&logo=vue.js)](https://github.com/zxc7563598/vue-bilibili-danmu-admin)
+[![Shop](https://img.shields.io/badge/vue--bilibili--danmu--shop-前端：移动端积分商城-3eaf7c?style=for-the-badge&logo=vue.js)](https://github.com/zxc7563598/vue-bilibili-danmu-shop)
 
 ---
 
