@@ -26,6 +26,11 @@
 
 ## 我最近在忙
 
+> PHP暴力破解支付宝/微信账单密码并提取数据用于分析，适用于监听邮箱接收到账单后自动下载/解析的场景
+
+[![WeChat Parser](https://img.shields.io/badge/php--wechat--bill--parser-微信账单解析器-7bb32e?style=for-the-badge&logo=wechat)](https://github.com/zxc7563598/php-wechat-bill-parser)
+[![Alipay Parser](https://img.shields.io/badge/php--alipay--bill--parser-支付宝账单解析器-1677ff?style=for-the-badge&logo=alipay)](https://github.com/zxc7563598/php-alipay-bill-parser)
+
 > 一套基于 PHP + Vue 的弹幕互动系统，支持弹幕处理、礼物处理、积分商城、后台管理及 Docker 部署。
 
 [![Core](https://img.shields.io/badge/php--bilibili--danmu--core-B站交互核心模块-blueviolet?style=for-the-badge&logo=php)](https://github.com/zxc7563598/php-bilibili-danmu-core)
@@ -36,7 +41,7 @@
 
 ---
 
-> 一些在实际项目中整理出来的通用能力组件，涵盖缓存、地址解析、规则引擎等常见需求，希望能对其他开发者的工作有所帮助。
+> 一些在实际PHP项目中整理出来的通用能力组件，涵盖缓存、地址解析、规则引擎等常见需求，希望能对其他开发者的工作有所帮助。
 
 [![Utils](https://img.shields.io/badge/php--utils-工具函数集合-6e40c9?style=for-the-badge&logo=php)](https://github.com/zxc7563598/php-utils)
 [![Cache](https://img.shields.io/badge/php--cache-多层缓存系统-4c51bf?style=for-the-badge&logo=databricks)](https://github.com/zxc7563598/php-cache)
