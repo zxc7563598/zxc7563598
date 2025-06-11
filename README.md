@@ -52,6 +52,7 @@
 [![URLSigner](https://img.shields.io/badge/php--url--signer-签名链接工具-073b4c?style=for-the-badge&logo=linktree)](https://github.com/zxc7563598/php-url-signer)
 [![Authenticator](https://img.shields.io/badge/php--google--authenticator-TOTP动态口令-ff6b6b?style=for-the-badge&logo=google)](https://github.com/zxc7563598/php-google-authenticator)
 [![RuleEngine](https://img.shields.io/badge/php--simple--rule--engine-轻量规则引擎-f4a261?style=for-the-badge&logo=elastic)](https://github.com/zxc7563598/php-simple-rule-engine)
+[![FortuneAnalyzer](https://img.shields.io/badge/php--fortune--analyzer-八字命理分析-c084fc?style=for-the-badge&logo=astro)](https://github.com/zxc7563598/php-fortune-analyzer)
 
 ---
 
