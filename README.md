@@ -6,6 +6,8 @@
 
 📄 [个人网站](https://hejunjie.life) ｜ 📄 [我的简历](https://hejunjie.life/docx/%E7%AE%80%E5%8E%8620250406.pdf) ｜ 📞 19839737630 ｜ 📮 junjie.he.925@gmail.com
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=zxc7563598&title=MultiLanguage,Commits,PullRequest,Stars,Experience,Repositories,Followers,Issues)](https://hejunjie.life)
+
 ---
 
 ## 🚀 技术栈概览
