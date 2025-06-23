@@ -1,0 +1,34 @@
+name: ❓ 向我提问
+description: 有问题？疑问？建议？就在这里说，我很乐意解答。
+title: "[Q]: "
+labels: ["question","pending"]
+
+body:
+  - type: input
+    id: title
+    attributes:
+      label: 简单概述
+      description: 用一句话概括你的疑问
+      placeholder: 我想问...
+    validations:
+      required: true
+
+  - type: textarea
+    id: details
+    attributes:
+      label: 问题详情
+      description: 请详细描述你的问题
+      placeholder: 背景、细节、参考资料，都可以附上
+    validations:
+      required: true
+
+  - type: dropdown
+    id: entity
+    attributes:
+      label: 你是公司还是个人？
+      description: 我是面向个人／公司／机构？让彼此更好对接。
+      options:
+        - 我是个人
+        - 我是公司／机构
+    validations:
+      required: true
