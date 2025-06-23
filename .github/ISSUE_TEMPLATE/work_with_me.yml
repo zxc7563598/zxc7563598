@@ -1,7 +1,7 @@
 name: 💼 合作／雇佣邀请
 description: 有合作想法？需要我做事？我很乐意倾听。
 title: "[WorkWithMe]: "
-labels: ["work"，"pending"]
+labels: ["work","pending"]
 
 body:
   - type: input
