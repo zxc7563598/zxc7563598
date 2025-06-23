@@ -2,7 +2,8 @@ name: ❓ 向我提问
 description: 有问题？疑问？建议？就在这里说，我很乐意解答。
 title: "[Q]: "
 labels: ["question","pending"]
-
+assignees:
+  -  zxc7563598
 body:
   - type: input
     id: title
