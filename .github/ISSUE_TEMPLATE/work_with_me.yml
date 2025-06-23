@@ -1,0 +1,34 @@
+name: 💼 合作／雇佣邀请
+description: 有合作想法？需要我做事？我很乐意倾听。
+title: "[WorkWithMe]: "
+labels: ["work"，"pending"]
+
+body:
+  - type: input
+    id: title
+    attributes:
+      label: 简单概述
+      description: 用一句话说说你想做什么
+      placeholder: 比如：「邀请我做个PHP项目」
+    validations:
+      required: true
+
+  - type: textarea
+    id: details
+    attributes:
+      label: 详细描述
+      description: 说说你的目标／需求／期望／大概周期
+      placeholder: 背景介绍、细节、预算、时间安排等
+    validations:
+      required: true
+
+  - type: dropdown
+    id: entity
+    attributes:
+      label: 你是公司还是个人？
+      description: 我是面向个人／公司／机构？让彼此更好对接。
+      options:
+        - 我是个人
+        - 我是公司／机构
+    validations:
+      required: true
