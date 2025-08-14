@@ -67,6 +67,10 @@
 
 👋 感谢你的阅读，祝你生活编码两开花。
 
+## 最近文章
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-328%20hrs%207%20mins-blue)
