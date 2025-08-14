@@ -69,6 +69,11 @@
 
 ## 最近文章
 <!-- BLOG-POST-LIST:START -->
+- [我写了个脚本，统计了我自己写了多少行代码（纯图一乐）](https://hejunjie.life/posts/c02c3d6d.html)
+- [构建一个简洁优雅的 PHP 参数验证器 —— php-schema-validator](https://hejunjie.life/posts/a45e4e99.html)
+- [如何优雅地处理多种电商优惠规则？我用 PHP 封装了一个 Promotion Engine](https://hejunjie.life/posts/bfc6fc.html)
+- [收费跑路的私服玩腻了？2025最新自建DNF单机教程，重回60版本阿拉德！](https://hejunjie.life/posts/f1f8e9a1.html)
+- [一篇科学上网笔记 —— Shadowsocks 服务端配置和 Clash 客户端配置](https://hejunjie.life/posts/450aced7.html)
 <!-- BLOG-POST-LIST:END -->
 
 
