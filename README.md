@@ -62,6 +62,8 @@
 [![FortuneAnalyzer](https://img.shields.io/badge/php--fortune--analyzer-八字命理分析-c084fc?style=for-the-badge&logo=astro)](https://github.com/zxc7563598/php-fortune-analyzer)
 [![PromotionEngine](https://img.shields.io/badge/php--promotion--engine-促销策略引擎-f3722c?style=for-the-badge&logo=shopify)](https://github.com/zxc7563598/php-promotion-engine)
 [![SchemaValidator](https://img.shields.io/badge/php--schema--validator-参数验证器-3a86ff?style=for-the-badge&logo=checkmarx)](https://github.com/zxc7563598/php-schema-validator)
+[![DataQueryTool](https://img.shields.io/badge/php--data--query--tool-数据查询与导出-0077b6?style=for-the-badge&logo=datatable)](https://github.com/zxc7563598/data-query-tool)
+
 
 ---
 
