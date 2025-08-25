@@ -28,11 +28,6 @@
 
 ## 我最近在忙
 
-> 一个私有可部署的多模态生活管理平台，帮助你记录、整合和可视化每日生活数据，专注习惯养成、自我管理与灵感沉淀
-
-[![LifeBoard](https://img.shields.io/badge/life--board-个人生活管理仪表盘-1e6091?style=for-the-badge&logo=notion)](https://github.com/zxc7563598/life-board)
-
-
 > PHP暴力破解支付宝/微信账单密码并提取数据用于分析，适用于监听邮箱接收到账单后自动下载/解析的场景
 
 [![WeChat Parser](https://img.shields.io/badge/php--wechat--bill--parser-微信账单解析器-7bb32e?style=for-the-badge&logo=wechat)](https://github.com/zxc7563598/php-wechat-bill-parser)
