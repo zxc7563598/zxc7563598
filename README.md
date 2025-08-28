@@ -68,11 +68,11 @@
 
 ## 最近文章
 <!-- BLOG-POST-LIST:START -->
+- [RSA+AES 混合加密不复杂，但落地挺烦，我用 Vue+PHP 封装成了两个库](https://hejunjie.life/posts/9634b05b.html)
 - [订单号老是撞车？我写了个通用 PHP ID 生成器](https://hejunjie.life/posts/697aafe5.html)
 - [舰长积分商城和弹幕机器人系统的手动部署教程](https://hejunjie.life/posts/b80f6d1a.html)
 - [如何让同事自己查数据？写一个零依赖 PHP SQL 查询工具就够了](https://hejunjie.life/posts/44994b49.html)
 - [我写了个脚本，统计了我自己写了多少行代码（纯图一乐）](https://hejunjie.life/posts/c02c3d6d.html)
-- [构建一个简洁优雅的 PHP 参数验证器 —— php-schema-validator](https://hejunjie.life/posts/a45e4e99.html)
 <!-- BLOG-POST-LIST:END -->
 
 
