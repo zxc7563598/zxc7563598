@@ -68,11 +68,11 @@
 
 ## 最近文章
 <!-- BLOG-POST-LIST:START -->
+- [作为 PHP 开发者，我第一次用 Go 写了个桌面应用](https://hejunjie.life/posts/d7285de6.html)
 - [用 PHP 玩向量数据库：一个从小说网站开始的小尝试](https://hejunjie.life/posts/9dff3f92.html)
 - [RSA+AES 混合加密不复杂，但落地挺烦，我用 Vue+PHP 封装成了两个库](https://hejunjie.life/posts/9634b05b.html)
 - [订单号老是撞车？我写了个通用 PHP ID 生成器](https://hejunjie.life/posts/697aafe5.html)
 - [舰长积分商城和弹幕机器人系统的手动部署教程](https://hejunjie.life/posts/b80f6d1a.html)
-- [如何让同事自己查数据？写一个零依赖 PHP SQL 查询工具就够了](https://hejunjie.life/posts/44994b49.html)
 <!-- BLOG-POST-LIST:END -->
 
 
