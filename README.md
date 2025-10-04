@@ -28,12 +28,16 @@
 
 ## 我最近在忙
 
+> 基于 Go 和 Wails 构建的综合个人财务管理系统，支持桌面应用与 Web 服务双模式运行，可以快速导入支付宝/微信账单，对消费支出进行统计分析并借由 DeepSeek 生成消费报告
+
+[![FinTrack - 个人财务管理](https://img.shields.io/badge/FinTrack-个人财务管理-0078D7?style=for-the-badge&logo=symantec)](https://github.com/zxc7563598/fintrack-backend)
+
 > PHP暴力破解支付宝/微信账单密码并提取数据用于分析，适用于监听邮箱接收到账单后自动下载/解析的场景
 
 [![WeChat Parser](https://img.shields.io/badge/php--wechat--bill--parser-微信账单解析器-7bb32e?style=for-the-badge&logo=wechat)](https://github.com/zxc7563598/php-wechat-bill-parser)
 [![Alipay Parser](https://img.shields.io/badge/php--alipay--bill--parser-支付宝账单解析器-1677ff?style=for-the-badge&logo=alipay)](https://github.com/zxc7563598/php-alipay-bill-parser)
 
-> 一套基于 PHP + Vue 的弹幕互动系统，支持弹幕处理、礼物处理、积分商城、后台管理及 Docker 部署。
+> 一套基于 PHP + Vue 的弹幕互动系统，支持弹幕处理、礼物处理、积分商城、后台管理及 Docker 部署
 
 [![Core](https://img.shields.io/badge/php--bilibili--danmu--core-B站交互核心模块-blueviolet?style=for-the-badge&logo=php)](https://github.com/zxc7563598/php-bilibili-danmu-core)
 [![Docker](https://img.shields.io/badge/php--bilibili--danmu--docker-Docker一键部署容器-2496ed?style=for-the-badge&logo=docker)](https://github.com/zxc7563598/php-bilibili-danmu-docker)
