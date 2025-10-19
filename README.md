@@ -64,6 +64,9 @@
 [![DataQueryTool](https://img.shields.io/badge/php--data--query--tool-数据查询与导出-0077b6?style=for-the-badge&logo=databricks)](https://github.com/zxc7563598/data-query-tool)
 [![IDGenerator](https://img.shields.io/badge/php--id--generator-唯一ID生成器-ff9f1c?style=for-the-badge&logo=apachekafka)](https://github.com/zxc7563598/php-id-generator)
 [![EncryptedRequest](https://img.shields.io/badge/php--encrypted--request-请求加密处理工具包-6f4e7c?style=for-the-badge&logo=foundryvirtualtabletop)](https://github.com/zxc7563598/php-encrypted-request)
+[![TradeSplitter](https://img.shields.io/badge/php--trade--splitter-分账组件-FF7F50?style=for-the-badge&logo=giphy)](https://github.com/zxc7563598/php-trade-splitter) 
+[![OhShitLogger](https://img.shields.io/badge/Oh%20Shit%20Logger-错误日志收集与分析-FF6347?style=for-the-badge&logo=claude)](https://github.com/zxc7563598/oh-shit-logger)
+
 
 
 ---
