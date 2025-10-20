@@ -75,11 +75,11 @@
 
 ## 最近文章
 <!-- BLOG-POST-LIST:START -->
+- [用自己的服务器做一个「临时网络代理」：记录一下开发阶段的一个小技巧](https://hejunjie.life/blog/di19fk4u)
 - [从 Hexo 到 Astro：重构我的个人博客](https://hejunjie.life/blog/jd82u47w)
 - [一个小项目的记录：PHP 分账组件](https://hejunjie.life/blog/62e95bf2)
 - [再也不用翻一堆日志！一键部署轻量级错误监控系统，帮你统一管理 PHP 报错](https://hejunjie.life/blog/23cf1f6b)
 - [作为 PHP 开发者，我第一次用 Go 写了个桌面应用](https://hejunjie.life/blog/d7285de6)
-- [用 PHP 玩向量数据库：一个从小说网站开始的小尝试](https://hejunjie.life/blog/9dff3f92)
 <!-- BLOG-POST-LIST:END -->
 
 
