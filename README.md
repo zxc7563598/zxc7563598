@@ -75,11 +75,11 @@
 
 ## 最近文章
 <!-- BLOG-POST-LIST:START -->
+- [收藏版：Phinx 数据库迁移完全指南](https://hejunjie.life/blog/d92j5hsf)
 - [想让默认头像不再千篇一律，就顺手复刻了一下 GitHub 的思路](https://hejunjie.life/blog/d94u5hht)
 - [在 Astro 博客中优雅使用 51.la 统计数据](https://hejunjie.life/blog/do295utb)
 - [用自己的服务器做一个「临时网络代理」：记录一下开发阶段的一个小技巧](https://hejunjie.life/blog/di19fk4u)
 - [从 Hexo 到 Astro：重构我的个人博客](https://hejunjie.life/blog/jd82u47w)
-- [一个小项目的记录：PHP 分账组件](https://hejunjie.life/blog/62e95bf2)
 <!-- BLOG-POST-LIST:END -->
 
 
