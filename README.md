@@ -17,6 +17,9 @@
 - **运维**：LNMP / Docker / GitHub  
 - **其他**：微信公众号 / 小程序 / Composer 套件狂魔 / Go / Python
 
+[![overview](https://raw.githubusercontent.com/zxc7563598/zxc7563598/main/generated/overview.svg)](https://github.com/zxc7563598)[![languages](https://raw.githubusercontent.com/zxc7563598/zxc7563598/main/generated/languages.svg)](https://github.com/zxc7563598)
+
+
 ---
 
 ## 📢 正在找工作！
