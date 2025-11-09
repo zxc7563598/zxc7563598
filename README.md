@@ -78,7 +78,7 @@
 
 ## 最近文章
 <!-- BLOG-POST-LIST:START -->
-- [在 Astro 博客中对文章进行加密](https://hejunjie.life/blog/idR42daq)
+- [Astro 博客加密教程：保护文章内容的 SSR 方案](https://hejunjie.life/blog/idR42daq)
 - [Web3 去魅：写给程序员和普通人的技术解读](https://hejunjie.life/blog/a9d922ut)
 - [收藏版：Phinx 数据库迁移完全指南](https://hejunjie.life/blog/d92j5hsf)
 - [想让默认头像不再千篇一律，就顺手复刻了一下 GitHub 的思路](https://hejunjie.life/blog/d94u5hht)
