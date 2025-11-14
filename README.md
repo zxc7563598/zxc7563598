@@ -78,11 +78,11 @@
 
 ## 最近文章
 <!-- BLOG-POST-LIST:START -->
+- [自动化我的友链申请脚本：让孤岛互相连起来](https://hejunjie.life/blog/kdir85h1)
 - [被问性能后，我封装了这个 PHP 错误上报工具](https://hejunjie.life/blog/sd84uthv)
 - [Astro 博客加密教程：保护文章内容的 SSR 方案](https://hejunjie.life/blog/idR42daq)
 - [Web3 去魅：写给程序员和普通人的技术解读](https://hejunjie.life/blog/a9d922ut)
 - [收藏版：Phinx 数据库迁移完全指南](https://hejunjie.life/blog/d92j5hsf)
-- [想让默认头像不再千篇一律，就顺手复刻了一下 GitHub 的思路](https://hejunjie.life/blog/d94u5hht)
 <!-- BLOG-POST-LIST:END -->
 
 
