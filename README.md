@@ -55,7 +55,7 @@
 [![Utils](https://img.shields.io/badge/php--utils-工具函数集合-6e40c9?style=for-the-badge&logo=php)](https://github.com/zxc7563598/php-utils)
 [![Cache](https://img.shields.io/badge/php--cache-多层缓存系统-4c51bf?style=for-the-badge&logo=databricks)](https://github.com/zxc7563598/php-cache)
 [![Division](https://img.shields.io/badge/php--china--division-行政区划解析/身份证查询归属地-2d6a4f?style=for-the-badge&logo=mapbox)](https://github.com/zxc7563598/php-china-division)
-[![ErrorLog](https://img.shields.io/badge/php--error--log-多通道错误日志-ef476f?style=for-the-badge&logo=textpattern)](https://github.com/zxc7563598/php-error-log)
+[![ErrorLog](https://img.shields.io/badge/php--lazylog-轻量级PHP异步错误日志-ef476f?style=for-the-badge&logo=textpattern)](https://github.com/zxc7563598/php-lazylog)
 [![MobileLocator](https://img.shields.io/badge/php--mobile--locator-手机号归属地查询-06d6a0?style=for-the-badge&logo=googlemaps)](https://github.com/zxc7563598/php-mobile-locator)
 [![AddressParser](https://img.shields.io/badge/php--address--parser-收货地址解析-118ab2?style=for-the-badge&logo=homeassistant)](https://github.com/zxc7563598/php-address-parser)
 [![URLSigner](https://img.shields.io/badge/php--url--signer-签名链接工具-073b4c?style=for-the-badge&logo=linktree)](https://github.com/zxc7563598/php-url-signer)
