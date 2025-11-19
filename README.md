@@ -50,7 +50,7 @@
 
 ---
 
-> 一些在实际PHP项目中整理出来的通用能力组件，涵盖缓存、地址解析、规则引擎等常见需求，希望能对其他开发者的工作有所帮助。
+> 一些在实际项目中整理出来的通用能力组件，涵盖缓存、地址解析、规则引擎等常见需求，希望能对其他开发者的工作有所帮助。
 
 [![Utils](https://img.shields.io/badge/php--utils-工具函数集合-6e40c9?style=for-the-badge&logo=php)](https://github.com/zxc7563598/php-utils)
 [![Cache](https://img.shields.io/badge/php--cache-多层缓存系统-4c51bf?style=for-the-badge&logo=databricks)](https://github.com/zxc7563598/php-cache)
@@ -68,7 +68,8 @@
 [![IDGenerator](https://img.shields.io/badge/php--id--generator-唯一ID生成器-ff9f1c?style=for-the-badge&logo=apachekafka)](https://github.com/zxc7563598/php-id-generator)
 [![EncryptedRequest](https://img.shields.io/badge/php--encrypted--request-请求加密处理工具包-6f4e7c?style=for-the-badge&logo=foundryvirtualtabletop)](https://github.com/zxc7563598/php-encrypted-request)
 [![TradeSplitter](https://img.shields.io/badge/php--trade--splitter-分账组件-FF7F50?style=for-the-badge&logo=giphy)](https://github.com/zxc7563598/php-trade-splitter) 
-[![OhShitLogger](https://img.shields.io/badge/Oh%20Shit%20Logger-错误日志收集与分析-FF6347?style=for-the-badge&logo=claude)](https://github.com/zxc7563598/oh-shit-logger)
+[![OhShitLogger](https://img.shields.io/badge/oh--shit--logger-错误日志收集与分析-FF6347?style=for-the-badge&logo=claude)](https://github.com/zxc7563598/oh-shit-logger)
+[![GitHubWebhookListener](https://img.shields.io/badge/github--webhook--listener-接收GitHub%20Webhook并执行Shell命令-00ADD8?style=for-the-badge&logo=go)](https://github.com/zxc7563598/github-webhook-listener)
 
 
 
