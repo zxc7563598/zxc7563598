@@ -79,11 +79,11 @@
 
 ## 最近文章
 <!-- BLOG-POST-LIST:START -->
+- [从零开始做 Go 项目：我的目录设计分享](https://hejunjie.life/blog/aod5ngj6)
 - [MineContext：我第一次感觉 AI 真正在“主动帮我管理生活”](https://hejunjie.life/blog/vjr8wj4w)
 - [写博客写代码都适用：推完就自动部署的 GitHub Webhook 工具](https://hejunjie.life/blog/a9ee8nt5)
 - [自动化我的友链申请脚本：让孤岛互相连起来](https://hejunjie.life/blog/kdir85h1)
 - [被问性能后，我封装了这个 PHP 错误上报工具](https://hejunjie.life/blog/sd84uthv)
-- [Astro 博客加密教程：保护文章内容的 SSR 方案](https://hejunjie.life/blog/idR42daq)
 <!-- BLOG-POST-LIST:END -->
 
 
