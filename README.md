@@ -83,11 +83,11 @@
 
 ## 最近文章
 <!-- BLOG-POST-LIST:START -->
+- [用 Go 像写 Web 一样做桌面应用：完全离线的手机号归属地查询工具](https://hejunjie.life/blog/id81jf9d)
 - [用 PHP 解析 Protobuf 的坑与解法](https://hejunjie.life/blog/j4ufbb59)
 - [从零开始做 Go 项目：我的目录设计分享](https://hejunjie.life/blog/aod5ngj6)
 - [MineContext：我第一次感觉 AI 真正在“主动帮我管理生活”](https://hejunjie.life/blog/vjr8wj4w)
 - [写博客写代码都适用：推完就自动部署的 GitHub Webhook 工具](https://hejunjie.life/blog/a9ee8nt5)
-- [自动化我的友链申请脚本：让孤岛互相连起来](https://hejunjie.life/blog/kdir85h1)
 <!-- BLOG-POST-LIST:END -->
 
 
