@@ -31,6 +31,10 @@
 
 ## 我最近在忙
 
+> 完全离线的手机号归属地查询桌面应用，内置 ​483,709 个手机号号段​，适合在内网、单机、隔离环境下使用
+
+[![MobileLocator - 手机号归属地查询](https://img.shields.io/badge/MobileLocator-手机号归属地查询-0078D7?style=for-the-badge&logo=symantec)](https://github.com/zxc7563598/go-mobile-locator)
+
 > 基于 Go 和 Wails 构建的综合个人财务管理系统，支持桌面应用与 Web 服务双模式运行，可以快速导入支付宝/微信账单，对消费支出进行统计分析并借由 DeepSeek 生成消费报告
 
 [![FinTrack - 个人财务管理](https://img.shields.io/badge/FinTrack-个人财务管理-0078D7?style=for-the-badge&logo=symantec)](https://github.com/zxc7563598/fintrack-backend)
