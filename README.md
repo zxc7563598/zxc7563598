@@ -4,7 +4,7 @@
 能写前端、精通后端、搞得定运维，也会用 Go/Python 写点自动化脚本——全栈打工侠认证✔️  
 想找份靠谱的远程或成都本地 PHP 开发工作，欢迎 pick 👇
 
-📄 [个人网站](https://hejunjie.life) ｜ 📄 [我的简历](https://hejunjie.life/docx/%E7%AE%80%E5%8E%8620250406.pdf) ｜ 📞 16601750925 ｜ 📮 junjie.he.925@gmail.com
+📄 [个人网站](https://hejunjie.life) ｜ 📄 [我的简历](https://hejunjie.life/resume) ｜ 📞 16601750925 ｜ 📮 junjie.he.925@gmail.com
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=zxc7563598&title=MultiLanguage,Commits,PullRequest,Stars,Experience,Repositories,Followers,Issues)](https://hejunjie.life)
 
