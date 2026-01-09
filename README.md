@@ -83,11 +83,11 @@
 
 ## 最近文章
 <!-- BLOG-POST-LIST:START -->
+- [[更新中] 从“能写 Go”到“写得对 Go”：一名 PHP 开发者的补课与重构](https://hejunjie.life/blog/aodj2421)
 - [2025 年度复盘：一些工作之外的项目、工具和想法](https://hejunjie.life/blog/9du5hgn6)
 - [一次受限环境下的 MySQL 数据导出与“可交付化”实践](https://hejunjie.life/blog/ka8dy46f)
 - [用 Go 像写 Web 一样做桌面应用：完全离线的手机号归属地查询工具](https://hejunjie.life/blog/id81jf9d)
 - [用 PHP 解析 Protobuf 的坑与解法](https://hejunjie.life/blog/j4ufbb59)
-- [从零开始做 Go 项目：我的目录设计分享](https://hejunjie.life/blog/aod5ngj6)
 <!-- BLOG-POST-LIST:END -->
 
 
