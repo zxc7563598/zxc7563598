@@ -62,6 +62,7 @@
 [![Fintrack](https://img.shields.io/badge/fintrack--backend-桌面端个人财务管理-0ea5e9?style=for-the-badge&logo=go)](https://github.com/zxc7563598/fintrack-backend)
 [![OhShitLogger](https://img.shields.io/badge/oh--shit--logger-集中式错误日志分析系统-0ea5e9?style=for-the-badge&logo=go)](https://github.com/zxc7563598/oh-shit-logger)
 [![AvatarService](https://img.shields.io/badge/avatar--service-随机头像生成服务-0ea5e9?style=for-the-badge&logo=go)](https://github.com/zxc7563598/avatar-service)
+[![MySQLBackup](https://img.shields.io/badge/mysql--backup--shell-MySQL自动备份脚本-6c757d?style=for-the-badge&logo=gnu-bash)](https://github.com/zxc7563598/mysql-backup-shell)
 
 ---
 
