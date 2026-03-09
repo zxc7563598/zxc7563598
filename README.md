@@ -90,11 +90,11 @@
 
 ## 最近文章
 <!-- BLOG-POST-LIST:START -->
+- [一次被封 IP 之后：从 Shadowsocks 到 Xray Reality](https://hejunjie.life/blog/jaai7bt0)
 - [从番剧墙到一个 Go CLI 工具](https://hejunjie.life/blog/k9dut5nf)
 - [用 Go 实现一个可长期运行的 GitHub Webhook 服务实践](https://hejunjie.life/blog/id84hty4)
 - [从“能写 Go”到“写得对 Go”：一名 PHP 开发者的补课与重构](https://hejunjie.life/blog/aodj2421)
 - [2025 年度复盘：一些工作之外的项目、工具和想法](https://hejunjie.life/blog/9du5hgn6)
-- [一次受限环境下的 MySQL 数据导出与“可交付化”实践](https://hejunjie.life/blog/ka8dy46f)
 <!-- BLOG-POST-LIST:END -->
 
 
