@@ -13,9 +13,9 @@
 ## 🚀 技术栈概览
 
 - **前端**：HTML / CSS / JavaScript / Vue / Element Plus / Vant4 / NaiveUI  
-- **后端**：PHP（ThinkPHP / Laravel / Webman）/ MySQL 优化 / Redis / 接口安全  
+- **后端**：Go / PHP（ThinkPHP / Laravel / Webman）/ MySQL 优化 / Redis / 接口安全  
 - **运维**：LNMP / Docker / GitHub  
-- **其他**：微信公众号 / 小程序 / Composer 套件狂魔 / Go / Python
+- **其他**：微信公众号 / 小程序 / Python
 
 [![overview](https://raw.githubusercontent.com/zxc7563598/zxc7563598/main/generated/overview.svg)](https://github.com/zxc7563598)[![languages](https://raw.githubusercontent.com/zxc7563598/zxc7563598/main/generated/languages.svg)](https://github.com/zxc7563598)
 
