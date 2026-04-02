@@ -31,6 +31,10 @@
 
 ## 我最近在忙
 
+> 一个基于 Go + Vue 3 的单二进制后台管理系统脚手架，开箱即用并内置认证与细粒度权限控制，帮助快速搭建可扩展的后台系统
+
+[![OneAdmin](https://img.shields.io/badge/OneAdmin-后台脚手架-0ea5e9?style=for-the-badge&logo=go)](https://github.com/zxc7563598/oneadmin)
+
 > 基于 TMDB API 的片单导出 CLI 工具，快速获取指定片单信息为 JSON 文件，并支持下载封面 / 背景图进行本地或 OSS 存储。适用于在个人网站上本地化展示一个电影 / 番剧墙
 
 [![TMDBExporter](https://img.shields.io/badge/tmdb--list--exporter-TMDB片单导出工具-0ea5e9?style=for-the-badge&logo=go)](https://github.com/zxc7563598/tmdb-list-exporter)
