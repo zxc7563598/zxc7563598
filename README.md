@@ -94,11 +94,11 @@
 
 ## 最近文章
 <!-- BLOG-POST-LIST:START -->
+- [不用翻墙、不用注册、不用月费，普通人也能用上 Claude Code](https://hejunjie.life/blog/d9d821wf)
 - [我把每天的键盘输入，变成了一张热力图](https://hejunjie.life/blog/cif84h2i)
 - [Go + Vue 打包成一个单二进制的后台系统，我做了个后台脚手架](https://hejunjie.life/blog/c9fu5hnq)
 - [一次被封 IP 之后：从 Shadowsocks 到 Xray Reality](https://hejunjie.life/blog/jaai7bt0)
 - [从番剧墙到一个 Go CLI 工具](https://hejunjie.life/blog/k9dut5nf)
-- [用 Go 实现一个可长期运行的 GitHub Webhook 服务实践](https://hejunjie.life/blog/id84hty4)
 <!-- BLOG-POST-LIST:END -->
 
 
