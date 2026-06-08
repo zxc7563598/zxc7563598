@@ -75,7 +75,10 @@
     <img width="48%" src="https://raw.githubusercontent.com/zxc7563598/zxc7563598/main/generated/languages.svg" />
 </p>
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/zxc7563598/zxc7563598/main/generated/graph.svg"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zxc7563598/zxc7563598/main/generated/graph-dark.svg" />
+    <img src="https://raw.githubusercontent.com/zxc7563598/zxc7563598/main/generated/graph-light.svg" alt="Activity Graph" />
+  </picture>
 </p>
 
 ---
