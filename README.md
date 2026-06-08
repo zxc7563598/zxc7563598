@@ -25,7 +25,7 @@
 <tr>
 <td valign="top" width="50%">
 
-### 关于我
+#### 关于我
 
 - 坐标 **成都**，2017 年开始写代码
 - Go / PHP 做后端，Vue 写前端，偶尔用 Python 写工具脚本
@@ -36,7 +36,7 @@
 </td>
 <td valign="top" width="50%">
 
-### 技术栈
+#### 技术栈
 
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
@@ -71,12 +71,11 @@
 ## 统计
 
 <p>
-  <img align="left" src="https://raw.githubusercontent.com/zxc7563598/zxc7563598/main/generated/overview.svg" alt="overview" width="50%"/>
-  <img align="right" src="https://raw.githubusercontent.com/zxc7563598/zxc7563598/main/generated/languages.svg" alt="languages"  width="50%"/>
+  <img align="left" src="https://raw.githubusercontent.com/zxc7563598/zxc7563598/main/generated/overview.svg" alt="overview" width="48%"/>
+  <img align="right" src="https://raw.githubusercontent.com/zxc7563598/zxc7563598/main/generated/languages.svg" alt="languages"  width="48%"/>
 </p>
 
 <br clear="both" />
-
 
 <p>
   <img align="left" src="https://raw.githubusercontent.com/zxc7563598/zxc7563598/main/generated/graph.svg" alt="overview" width="100%"/>
@@ -162,12 +161,12 @@
 <summary>更多项目（点击展开）</summary>
 <br/>
 
-| 项目                                                                                 | 简介                      | 技术栈     |
-| ------------------------------------------------------------------------------------ | ------------------------- | ---------- |
-| [php-encrypted-request](https://github.com/zxc7563598/php-encrypted-request)         | PHP 请求加密工具包        | PHP        |
-| [php-ip138](https://github.com/zxc7563598/php-ip138)                                 | IP138 API 封装 SDK        | PHP        |
-| [data-query-tool](https://github.com/zxc7563598/data-query-tool)                     | 内网快速 SQL 查询工具     | PHP        |
-| [mental-health-companion](https://github.com/zxc7563598/mental-health-companion)     | 中文心理陪伴 Claude Skill | AI         |
+| 项目                                                                             | 简介                      | 技术栈 |
+| -------------------------------------------------------------------------------- | ------------------------- | ------ |
+| [php-encrypted-request](https://github.com/zxc7563598/php-encrypted-request)     | PHP 请求加密工具包        | PHP    |
+| [php-ip138](https://github.com/zxc7563598/php-ip138)                             | IP138 API 封装 SDK        | PHP    |
+| [data-query-tool](https://github.com/zxc7563598/data-query-tool)                 | 内网快速 SQL 查询工具     | PHP    |
+| [mental-health-companion](https://github.com/zxc7563598/mental-health-companion) | 中文心理陪伴 Claude Skill | AI     |
 
 </details>
 
