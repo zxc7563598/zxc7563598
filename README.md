@@ -1,99 +1,184 @@
-# 👋 Hey，你好！
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+He+Junjie+%F0%9F%91%8B;Full-stack+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%E2%9C%A8;Building+tools+that+matter+%F0%9F%94%A7" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+He+Junjie+%F0%9F%91%8B;Full-stack+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%E2%9C%A8;Building+tools+that+matter+%F0%9F%94%A7" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+He+Junjie+%F0%9F%91%8B;Full-stack+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%E2%9C%A8;Building+tools+that+matter+%F0%9F%94%A7" alt="Typing SVG" />
+  </picture>
+</div>
 
-我是何俊杰，一名居住在成都的 28 岁资深 PHP / Gp 工程师。写代码第 7 年，沉迷重构，热爱折腾。  
-能写前端、精通后端、搞得定运维，也会用 Python 写点自动化脚本——全栈打工侠认证✔️  
-想找份靠谱的远程或成都本地 PHP 开发工作，欢迎 pick 👇
+<h3 align="center">破釜沉舟，砥砺前行</h3>
 
-📄 [个人网站](https://hejunjie.life) ｜ 📄 [我的简历](https://hejunjie.life/resume) ｜ 📞 16601750925 ｜ 📮 junjie.he.925@gmail.com
+<p align="center">
+  <em>全栈开发者 · 开源爱好者 · 终身学习者 —— 沉迷优雅代码，热爱折腾工具</em>
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zxc7563598&title=MultiLanguage,Commits,PullRequest,Stars,Experience,Repositories,Followers,Issues)](https://hejunjie.life)
-
----
-
-## 🚀 技术栈概览
-
-- **前端**：HTML / CSS / JavaScript / Vue / Element Plus / Vant4 / NaiveUI  
-- **后端**：Go / PHP（ThinkPHP / Laravel / Webman）/ MySQL 优化 / Redis / 接口安全  
-- **运维**：LNMP / Docker / GitHub  
-- **其他**：微信公众号 / 小程序 / Python
-
-[![overview](https://raw.githubusercontent.com/zxc7563598/zxc7563598/main/generated/overview.svg)](https://github.com/zxc7563598)[![languages](https://raw.githubusercontent.com/zxc7563598/zxc7563598/main/generated/languages.svg)](https://github.com/zxc7563598)
-
-
----
-
-## 📢 正在找工作！
-
-我是一位喜欢整洁代码、注重架构设计的开发者，7 年+ 实战经验，主导过千万级别项目。  
-如果你的团队正在找 PHP 工程师、全栈开发、重构高手或开源玩家，请一定联系我！
+<p align="center">
+  <a href="https://hejunjie.life"><img src="https://img.shields.io/badge/网站-hejunjie.life-0ea5e9?style=flat-square&logo=safari&logoColor=white" alt="Website" /></a>
+  <a href="https://hejunjie.life/resume"><img src="https://img.shields.io/badge/简历-Resume-0ea5e9?style=flat-square&logo=readme&logoColor=white" alt="Resume" /></a>
+  <a href="mailto:junjie.he.925@gmail.com"><img src="https://img.shields.io/badge/邮箱-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/zxc7563598"><img src="https://img.shields.io/badge/GitHub-zxc7563598-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
 ---
 
-## 我最近在忙
+<table align="center">
+<tr>
+<td valign="top" width="50%">
 
-> 一个基于 Go + Vue 3 的单二进制后台管理系统脚手架，开箱即用并内置认证与细粒度权限控制，帮助快速搭建可扩展的后台系统
+### 关于我
 
-[![OneAdmin](https://img.shields.io/badge/OneAdmin-后台脚手架-0ea5e9?style=for-the-badge&logo=go)](https://github.com/zxc7563598/oneadmin)
+- 坐标 **成都**，2017 年开始写代码
+- Go / PHP 做后端，Vue 写前端，偶尔用 Python 写工具脚本
+- 独立负责过金融平台从 0 到 1 的架构与开发，服务 30+ 家公司
+- 目前以自由职业方式与熟悉的团队协作，同时维护自己的开源工具
+- 如果你在寻找技术合作者、远程开发者，或者想聊聊想法、做点技术咨询，随时联系我
 
-> 基于 TMDB API 的片单导出 CLI 工具，快速获取指定片单信息为 JSON 文件，并支持下载封面 / 背景图进行本地或 OSS 存储。适用于在个人网站上本地化展示一个电影 / 番剧墙
+</td>
+<td valign="top" width="50%">
 
-[![TMDBExporter](https://img.shields.io/badge/tmdb--list--exporter-TMDB片单导出工具-0ea5e9?style=for-the-badge&logo=go)](https://github.com/zxc7563598/tmdb-list-exporter)
+### 技术栈
 
-> 接收 GitHub Webhook 并执行 Shell 命令的轻量级 Go 服务，内置 Web 面板可查看项目运行状态与 Webhook 执行记录
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TS" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Webman-07C160?style=flat-square&logo=php&logoColor=white" alt="Webman" />
+  <img src="https://img.shields.io/badge/Wails-DF0000?style=flat-square&logo=wails&logoColor=white" alt="Wails" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Milvus-00A1EA?style=flat-square&logo=milvus&logoColor=white" alt="Milvus" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="Actions" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS" />
+</p>
 
-[![WebhookListener](https://img.shields.io/badge/github--webhook--listener-GitHub%20Webhook执行服务-0ea5e9?style=for-the-badge&logo=go)](https://github.com/zxc7563598/github-webhook-listener)
-
-> 完全离线的手机号归属地查询桌面应用，内置 ​483,709 个手机号号段​，适合在内网、单机、隔离环境下使用
-
-[![MobileLocatorGo](https://img.shields.io/badge/go--mobile--locator-离线手机号归属地桌面工具-0ea5e9?style=for-the-badge&logo=go)](https://github.com/zxc7563598/go-mobile-locator)
-
-> PHP暴力破解支付宝/微信账单密码并提取数据用于分析，适用于监听邮箱接收到账单后自动下载/解析的场景
-
-[![WechatBill](https://img.shields.io/badge/php--wechat--bill--parser-微信账单自动解析工具-ff8c00?style=for-the-badge&logo=wechat)](https://github.com/zxc7563598/php-wechat-bill-parser)
-[![AlipayBill](https://img.shields.io/badge/php--alipay--bill--parser-支付宝账单自动解析工具-ff8c00?style=for-the-badge&logo=alipay)](https://github.com/zxc7563598/php-alipay-bill-parser)
-
-> 一套基于 PHP + Vue 的弹幕互动系统，支持弹幕处理、礼物处理、积分商城、后台管理及 Docker 部署
-
-[![BilibiliDanmu](https://img.shields.io/badge/php--bilibili--danmu-B站直播机器人与积分系统-7c3aed?style=for-the-badge&logo=php)](https://github.com/zxc7563598/php-bilibili-danmu)
-
-[![DanmuCore](https://img.shields.io/badge/php--bilibili--danmu--core-B站直播WebSocket核心组件-7c3aed?style=for-the-badge&logo=php)](https://github.com/zxc7563598/php-bilibili-danmu-core)
-[![DanmuDocker](https://img.shields.io/badge/vue--shop-前端积分商城-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://github.com/zxc7563598/vue-bilibili-danmu-shop)
-[![DanmuDocker](https://img.shields.io/badge/vue--admin-后端管理面板-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://github.com/zxc7563598/vue-bilibili-danmu-admin)
-[![DanmuDocker](https://img.shields.io/badge/docker--ready-Docker部署支持-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/zxc7563598/php-bilibili-danmu-docker)
-
-> 还有一些其他的小服务
-
-[![Fintrack](https://img.shields.io/badge/fintrack--backend-桌面端个人财务管理-0ea5e9?style=for-the-badge&logo=go)](https://github.com/zxc7563598/fintrack-backend)
-[![OhShitLogger](https://img.shields.io/badge/oh--shit--logger-集中式错误日志分析系统-0ea5e9?style=for-the-badge&logo=go)](https://github.com/zxc7563598/oh-shit-logger)
-[![AvatarService](https://img.shields.io/badge/avatar--service-随机头像生成服务-0ea5e9?style=for-the-badge&logo=go)](https://github.com/zxc7563598/avatar-service)
-[![MySQLBackup](https://img.shields.io/badge/mysql--backup--shell-MySQL自动备份脚本-6c757d?style=for-the-badge&logo=gnu-bash)](https://github.com/zxc7563598/mysql-backup-shell)
-
----
-
-> 一些在实际项目中整理出来的通用能力组件，涵盖缓存、地址解析、规则引擎等常见需求，希望能对其他开发者的工作有所帮助。
-
-[![PromotionEngine](https://img.shields.io/badge/php--promotion--engine-电商促销策略引擎-7c3aed?style=for-the-badge&logo=php)](https://github.com/zxc7563598/php-promotion-engine)
-[![TradeSplitter](https://img.shields.io/badge/php--trade--splitter-灵活分账与利润拆分组件-7c3aed?style=for-the-badge&logo=php)](https://github.com/zxc7563598/php-trade-splitter)
-[![RuleEngine](https://img.shields.io/badge/php--simple--rule--engine-轻量级业务规则引擎-7c3aed?style=for-the-badge&logo=php)](https://github.com/zxc7563598/php-simple-rule-engine)
-[![SchemaValidator](https://img.shields.io/badge/php--schema--validator-结构化数据验证库-7c3aed?style=for-the-badge&logo=php)](https://github.com/zxc7563598/php-schema-validator)
-[![AddressParser](https://img.shields.io/badge/php--address--parser-智能收货地址解析工具-ff8c00?style=for-the-badge&logo=php)](https://github.com/zxc7563598/php-address-parser)
-[![ChinaDivision](https://img.shields.io/badge/php--china--division-行政区划解析/身份证归属地-ff8c00?style=for-the-badge&logo=mapbox)](https://github.com/zxc7563598/php-china-division)
-[![MobileLocatorPHP](https://img.shields.io/badge/php--mobile--locator-手机号归属地查询库-ff8c00?style=for-the-badge&logo=php)](https://github.com/zxc7563598/php-mobile-locator)
-[![IP138](https://img.shields.io/badge/php--ip138-IP138接口封装SDK-ff8c00?style=for-the-badge&logo=php)](https://github.com/zxc7563598/php-ip138)
-[![PHPUtils](https://img.shields.io/badge/php--utils-常用工具函数集合库-4c51bf?style=for-the-badge&logo=php)](https://github.com/zxc7563598/php-utils)
-[![LazyLog](https://img.shields.io/badge/php--lazylog-轻量级PHP异步日志系统-ef476f?style=for-the-badge&logo=textpattern)](https://github.com/zxc7563598/php-lazylog)
-[![URLSigner](https://img.shields.io/badge/php--url--signer-安全签名URL生成工具-4c51bf?style=for-the-badge&logo=php)](https://github.com/zxc7563598/php-url-signer)
-[![IDGenerator](https://img.shields.io/badge/php--id--generator-高性能ID生成器-4c51bf?style=for-the-badge&logo=php)](https://github.com/zxc7563598/php-id-generator)
-[![GoogleAuth](https://img.shields.io/badge/php--google--authenticator-TOTP双重验证组件-4c51bf?style=for-the-badge&logo=googleauthenticator)](https://github.com/zxc7563598/php-google-authenticator)
-[![Milvus](https://img.shields.io/badge/php--milvus-Milvus向量数据库客户端-4c51bf?style=for-the-badge&logo=php)](https://github.com/zxc7563598/php-milvus)
-[![FortuneAnalyzer](https://img.shields.io/badge/php--fortune--analyzer-八字排盘与节气计算库-4c51bf?style=for-the-badge&logo=php)](https://github.com/zxc7563598/php-fortune-analyzer)
+</td>
+</tr>
+</table>
 
 ---
 
-👋 感谢你的阅读，祝你生活编码两开花。
+## 统计
+
+<p>
+  <img align="left" src="https://raw.githubusercontent.com/zxc7563598/zxc7563598/main/generated/overview.svg" alt="overview" width="50%"/>
+  <img align="right" src="https://raw.githubusercontent.com/zxc7563598/zxc7563598/main/generated/languages.svg" alt="languages"  width="50%"/>
+</p>
+
+<br clear="both" />
+
+
+<p>
+  <img align="left" src="https://raw.githubusercontent.com/zxc7563598/zxc7563598/main/generated/graph.svg" alt="overview" width="100%"/>
+</p>
+
+---
+
+## 精选作品
+
+### 明星项目
+
+| 项目                                                                       | 简介                                                        | 技术                                                                                                                                                                                             |
+| -------------------------------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [php-bilibili-danmu](https://github.com/zxc7563598/php-bilibili-danmu)     | B站直播间机器人与积分系统，支持弹幕/礼物/签到/商城/数据分析 | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Stars](https://img.shields.io/badge/160_stars-f1c40f?style=flat-square&logo=github&logoColor=white) |
+| [key-heat](https://github.com/zxc7563598/key-heat)                         | 键盘热力追踪器，实时监控按键频率，3D可视化展示              | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Stars](https://img.shields.io/badge/9_stars-f1c40f?style=flat-square&logo=github&logoColor=white)      |
+| [fintrack-backend](https://github.com/zxc7563598/fintrack-backend)         | 个人财务管理后端，账单记录/分类统计/数据分析                | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Stars](https://img.shields.io/badge/23_stars-f1c40f?style=flat-square&logo=github&logoColor=white)     |
+| [GoAdminKit](https://github.com/zxc7563598/GoAdminKit)                     | Go 后台管理脚手架，集成 RBAC/菜单/Web UI，单二进制部署      | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Stars](https://img.shields.io/badge/3_stars-f1c40f?style=flat-square&logo=github&logoColor=white)      |
+| [php-mobile-locator](https://github.com/zxc7563598/php-mobile-locator)     | 手机号码归属地查询库，支持运营商识别与地区定位              | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Stars](https://img.shields.io/badge/19_stars-f1c40f?style=flat-square&logo=github&logoColor=white)  |
+| [php-fortune-analyzer](https://github.com/zxc7563598/php-fortune-analyzer) | PHP 八字排盘工具库，阳历农历转换/节气计算/四柱分析          | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Stars](https://img.shields.io/badge/20_stars-f1c40f?style=flat-square&logo=github&logoColor=white)  |
+
+### PHP 生态
+
+> 从业务组件到底层工具，覆盖电商、校验、日志、缓存等常见场景
+
+<p>
+  <a href="https://github.com/zxc7563598/php-promotion-engine"><img src="https://img.shields.io/badge/promotion--engine-促销策略引擎-7c3aed?style=flat-square&logo=php&logoColor=white" /></a>
+  <a href="https://github.com/zxc7563598/php-trade-splitter"><img src="https://img.shields.io/badge/trade--splitter-交易分账组件-7c3aed?style=flat-square&logo=php&logoColor=white" /></a>
+  <a href="https://github.com/zxc7563598/php-simple-rule-engine"><img src="https://img.shields.io/badge/rule--engine-业务规则引擎-7c3aed?style=flat-square&logo=php&logoColor=white" /></a>
+  <a href="https://github.com/zxc7563598/php-schema-validator"><img src="https://img.shields.io/badge/schema--validator-数据校验库-7c3aed?style=flat-square&logo=php&logoColor=white" /></a>
+  <br/>
+  <a href="https://github.com/zxc7563598/php-address-parser"><img src="https://img.shields.io/badge/address--parser-地址智能解析-ff8c00?style=flat-square&logo=php&logoColor=white" /></a>
+  <a href="https://github.com/zxc7563598/php-china-division"><img src="https://img.shields.io/badge/china--division-行政区划数据-ff8c00?style=flat-square&logo=mapbox&logoColor=white" /></a>
+  <a href="https://github.com/zxc7563598/php-mobile-locator"><img src="https://img.shields.io/badge/mobile--locator-手机号归属地-ff8c00?style=flat-square&logo=php&logoColor=white" /></a>
+  <a href="https://github.com/zxc7563598/php-fortune-analyzer"><img src="https://img.shields.io/badge/fortune--analyzer-八字排盘-8b5cf6?style=flat-square&logo=php&logoColor=white" /></a>
+  <br/>
+  <a href="https://github.com/zxc7563598/php-milvus"><img src="https://img.shields.io/badge/milvus-向量数据库API库-4c51bf?style=flat-square&logo=php&logoColor=white" /></a>
+  <a href="https://github.com/zxc7563598/php-id-generator"><img src="https://img.shields.io/badge/id--generator-高性能ID生成-4c51bf?style=flat-square&logo=php&logoColor=white" /></a>
+  <a href="https://github.com/zxc7563598/php-url-signer"><img src="https://img.shields.io/badge/url--signer-安全签名URL-4c51bf?style=flat-square&logo=php&logoColor=white" /></a>
+  <a href="https://github.com/zxc7563598/php-google-authenticator"><img src="https://img.shields.io/badge/google--auth-TOTP双因素认证-4c51bf?style=flat-square&logo=googleauthenticator&logoColor=white" /></a>
+  <br/>
+  <a href="https://github.com/zxc7563598/php-lazylog"><img src="https://img.shields.io/badge/lazylog-异步日志系统-ef476f?style=flat-square&logo=textpattern&logoColor=white" /></a>
+  <a href="https://github.com/zxc7563598/php-utils"><img src="https://img.shields.io/badge/utils-工具函数集合-6c757d?style=flat-square&logo=php&logoColor=white" /></a>
+  <a href="https://github.com/zxc7563598/php-webman-essentials"><img src="https://img.shields.io/badge/webman--essentials-快速启动脚手架-07C160?style=flat-square&logo=php&logoColor=white" /></a>
+</p>
+
+### Go 生态
+
+> 从 CLI 工具到桌面应用，用 Go 贯通后端与客户端
+
+<p>
+  <a href="https://github.com/zxc7563598/GoAdminKit"><img src="https://img.shields.io/badge/GoAdminKit-后台管理脚手架-00ADD8?style=flat-square&logo=go&logoColor=white" /></a>
+  <a href="https://github.com/zxc7563598/key-heat"><img src="https://img.shields.io/badge/key--heat-键盘热力图追踪器-00ADD8?style=flat-square&logo=go&logoColor=white" /></a>
+  <a href="https://github.com/zxc7563598/go-mobile-locator"><img src="https://img.shields.io/badge/mobile--locator-离线归属地桌面应用-00ADD8?style=flat-square&logo=go&logoColor=white" /></a>
+  <br/>
+  <a href="https://github.com/zxc7563598/fintrack-backend"><img src="https://img.shields.io/badge/fintrack--backend-个人财务管理后端-00ADD8?style=flat-square&logo=go&logoColor=white" /></a>
+  <a href="https://github.com/zxc7563598/avatar-service"><img src="https://img.shields.io/badge/avatar--service-随机头像生成服务-00ADD8?style=flat-square&logo=go&logoColor=white" /></a>
+  <a href="https://github.com/zxc7563598/oh-shit-logger"><img src="https://img.shields.io/badge/oh--shit--logger-错误日志集中分析-00ADD8?style=flat-square&logo=go&logoColor=white" /></a>
+  <br/>
+  <a href="https://github.com/zxc7563598/tmdb-list-exporter"><img src="https://img.shields.io/badge/tmdb--exporter-TMDB片单导出CLI-00ADD8?style=flat-square&logo=go&logoColor=white" /></a>
+  <a href="https://github.com/zxc7563598/github-webhook-listener"><img src="https://img.shields.io/badge/webhook--listener-Webhook执行服务-00ADD8?style=flat-square&logo=go&logoColor=white" /></a>
+  <a href="https://github.com/zxc7563598/go-lab"><img src="https://img.shields.io/badge/go--lab-Go学习笔记与实验-00ADD8?style=flat-square&logo=go&logoColor=white" /></a>
+</p>
+
+### 前端
+
+<p>
+  <a href="https://github.com/zxc7563598/vue-admin-essentials"><img src="https://img.shields.io/badge/admin--essentials-精简后台模板-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" /></a>
+  <a href="https://github.com/zxc7563598/vue-bilibili-danmu-shop"><img src="https://img.shields.io/badge/danmu--shop-积分商城前端-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" /></a>
+  <a href="https://github.com/zxc7563598/vue-bilibili-danmu-admin"><img src="https://img.shields.io/badge/danmu--admin-后台管理面板-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" /></a>
+  <a href="https://github.com/zxc7563598/fintrack-frontend"><img src="https://img.shields.io/badge/fintrack--ui-财务管理前端-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" /></a>
+</p>
+
+### 工具与自动化
+
+<p>
+  <a href="https://github.com/zxc7563598/php-wechat-bill-parser"><img src="https://img.shields.io/badge/wechat--bill-微信账单解析-07C160?style=flat-square&logo=wechat&logoColor=white" /></a>
+  <a href="https://github.com/zxc7563598/php-alipay-bill-parser"><img src="https://img.shields.io/badge/alipay--bill-支付宝账单解析-1677FF?style=flat-square&logo=alipay&logoColor=white" /></a>
+  <a href="https://github.com/zxc7563598/alipay-wechat-finance"><img src="https://img.shields.io/badge/finance-账单合并与财报生成-3776AB?style=flat-square&logo=python&logoColor=white" /></a>
+  <a href="https://github.com/zxc7563598/mysql-backup-shell"><img src="https://img.shields.io/badge/mysql--backup-数据库自动备份-6c757d?style=flat-square&logo=gnubash&logoColor=white" /></a>
+</p>
+
+<details>
+<summary>更多项目（点击展开）</summary>
+<br/>
+
+| 项目                                                                                 | 简介                      | 技术栈     |
+| ------------------------------------------------------------------------------------ | ------------------------- | ---------- |
+| [php-encrypted-request](https://github.com/zxc7563598/php-encrypted-request)         | PHP 请求加密工具包        | PHP        |
+| [php-ip138](https://github.com/zxc7563598/php-ip138)                                 | IP138 API 封装 SDK        | PHP        |
+| [data-query-tool](https://github.com/zxc7563598/data-query-tool)                     | 内网快速 SQL 查询工具     | PHP        |
+| [mental-health-companion](https://github.com/zxc7563598/mental-health-companion)     | 中文心理陪伴 Claude Skill | AI         |
+
+</details>
+
+---
 
 ## 最近文章
+
+> 写代码，也写自己 —— 欢迎访问我的博客 [星河避难所](https://hejunjie.life)
+
 <!-- BLOG-POST-LIST:START -->
+
 - [不用翻墙、不用注册、不用月费，普通人也能用上 Claude Code](https://hejunjie.life/blog/d9d821wf)
 - [我把每天的键盘输入，变成了一张热力图](https://hejunjie.life/blog/cif84h2i)
 - [Go + Vue 打包成一个单二进制的后台系统，我做了个后台脚手架](https://hejunjie.life/blog/c9fu5hnq)
@@ -101,68 +186,76 @@
 - [从番剧墙到一个 Go CLI 工具](https://hejunjie.life/blog/k9dut5nf)
 <!-- BLOG-POST-LIST:END -->
 
+---
+
+## 编程统计
 
 <!--START_SECTION:waka-->
-**我是早鸟 🐤** 
+
+**我是早鸟 🐤**
 
 ```text
-🌞 早晨                     4078 commits        █████░░░░░░░░░░░░░░░░░░░░   21.39 % 
-🌆 白天                     10667 commits       ██████████████░░░░░░░░░░░   55.95 % 
-🌃 傍晚                     4153 commits        █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
-🌙 晚上                     166 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+🌞 早晨                     4078 commits        █████░░░░░░░░░░░░░░░░░░░░   21.39 %
+🌆 白天                     10667 commits       ██████████████░░░░░░░░░░░   55.95 %
+🌃 傍晚                     4153 commits        █████░░░░░░░░░░░░░░░░░░░░   21.78 %
+🌙 晚上                     166 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
 ```
-📅 **星期一 时的我最有干劲** 
+
+📅 **星期一 时的我最有干劲**
 
 ```text
-星期一                      3558 commits        █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
-星期二                      3361 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
-星期三                      3214 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
-星期四                      3175 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
-星期五                      3480 commits        █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
-星期六                      1262 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
-星期日                      1014 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+星期一                      3558 commits        █████░░░░░░░░░░░░░░░░░░░░   18.66 %
+星期二                      3361 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.63 %
+星期三                      3214 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.86 %
+星期四                      3175 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.65 %
+星期五                      3480 commits        █████░░░░░░░░░░░░░░░░░░░░   18.25 %
+星期六                      1262 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
+星期日                      1014 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
 ```
 
-
-📊 **本周消耗时间** 
+📊 **本周消耗时间**
 
 ```text
 🕑︎ 时区: Asia/Shanghai
 
-💬 编程语言: 
-Markdown                 5 hrs 24 mins       █████████████░░░░░░░░░░░░   53.98 % 
-Other                    1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-HTML                     1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
-Python                   43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
-JSON                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+💬 编程语言:
+Markdown                 5 hrs 24 mins       █████████████░░░░░░░░░░░░   53.98 %
+Other                    1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.65 %
+HTML                     1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.63 %
+Python                   43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
+JSON                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
 
-🔥 编辑器: 
-VS Code                  8 hrs 46 mins       ██████████████████████░░░   87.63 % 
-Claude Code              1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+🔥 编辑器:
+VS Code                  8 hrs 46 mins       ██████████████████████░░░   87.63 %
+Claude Code              1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.37 %
 
-🐱‍💻 项目: 
-ai                       4 hrs 49 mins       ████████████░░░░░░░░░░░░░   48.14 % 
-mental-health-companion  2 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
-bilibili-danmuji         1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
-oneadmin                 1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
-bazi                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+🐱‍💻 项目:
+ai                       4 hrs 49 mins       ████████████░░░░░░░░░░░░░   48.14 %
+mental-health-companion  2 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   22.91 %
+bilibili-danmuji         1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.20 %
+oneadmin                 1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.63 %
+bazi                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 
-💻 操作系统: 
-Mac                      10 hrs 1 min        █████████████████████████   100.00 % 
+💻 操作系统:
+Mac                      10 hrs 1 min        █████████████████████████   100.00 %
 ```
 
-**我最常使用 PHP** 
+**我最常使用 PHP**
 
 ```text
-PHP                      32 repos            ████████████░░░░░░░░░░░░░   50.00 % 
-Go                       11 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
-Vue                      9 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
-Astro                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+PHP                      32 repos            ████████████░░░░░░░░░░░░░   50.00 %
+Go                       11 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.19 %
+Vue                      9 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.06 %
+Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
+Astro                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
 ```
 
+Last Updated on 07/06/2026 22:45:09 UTC
 
-
-
- Last Updated on 07/06/2026 22:45:09 UTC
 <!--END_SECTION:waka-->
+
+---
+
+<div align="center">
+  <sub>联系我：<a href="mailto:junjie.he.925@gmail.com">junjie.he.925@gmail.com</a> · 简历可 <a href="https://hejunjie.life/resume">在线查看</a></sub>
+</div>
