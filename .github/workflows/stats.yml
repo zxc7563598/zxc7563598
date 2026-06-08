@@ -67,10 +67,10 @@ jobs:
         curl -sS -o generated/graph-light.svg "https://github-readme-activity-graph.vercel.app/graph?username=zxc7563598&theme=github-light&hide_border=true&area=true&radius=8"
         ls -lh generated/graph-light.svg
 
-    - name: Download activity graph light
+    - name: Download activity graph dark
       run: |
         mkdir -p generated
-        curl -sS -o generated/graph-light.svg "https://github-readme-activity-graph.vercel.app/graph?username=zxc7563598&theme=github-dark&hide_border=true&area=true&radius=8"
+        curl -sS -o generated/graph-dark.svg "https://github-readme-activity-graph.vercel.app/graph?username=zxc7563598&theme=github-dark&hide_border=true&area=true&radius=8"
         ls -lh generated/graph-dark.svg
 
     - name: Commit generated files to main
