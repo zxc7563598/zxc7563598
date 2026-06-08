@@ -61,6 +61,12 @@ jobs:
         EXCLUDED_LANGS: ${{ secrets.EXCLUDED_LANGS }}
         COUNT_STATS_FROM_FORKS: ${{ secrets.COUNT_STATS_FROM_FORKS }}
 
+    - name: Download activity graph
+      run: |
+        mkdir -p generated
+        curl -sS -o generated/graph-light.svg "https://github-readme-activity-graph.vercel.app/graph?username=zxc7563598&theme=github-light&hide_border=true&area=true&radius=8"
+        ls -lh generated/graph-light.svg
+
     - name: Commit generated files to main
       run: |
         git config --global user.name "github-stats[bot]"
