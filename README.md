@@ -70,8 +70,7 @@
 
 ## 统计
 
-<img align="left" src="https://raw.githubusercontent.com/zxc7563598/zxc7563598/main/generated/overview.svg" alt="overview" width="48%"/>
-<img align="right" src="https://raw.githubusercontent.com/zxc7563598/zxc7563598/main/generated/languages.svg" alt="languages"  width="48%"/>
+<img align="left" src="https://raw.githubusercontent.com/zxc7563598/zxc7563598/main/generated/overview.svg" alt="overview" width="48%"/><img align="right" src="https://raw.githubusercontent.com/zxc7563598/zxc7563598/main/generated/languages.svg" alt="languages"  width="48%"/>
 
 <br clear="both" />
 
