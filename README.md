@@ -69,15 +69,13 @@
 ---
 
 ## 统计
+
 <p align="center">
     <img width="48%" src="https://raw.githubusercontent.com/zxc7563598/zxc7563598/main/generated/overview.svg" />
     <img width="48%" src="https://raw.githubusercontent.com/zxc7563598/zxc7563598/main/generated/languages.svg" />
 </p>
-
-<br clear="both" />
-
-<p>
-  <img src="https://raw.githubusercontent.com/zxc7563598/zxc7563598/main/generated/graph.svg"/>
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/zxc7563598/zxc7563598/main/generated/graph.svg"/>
 </p>
 
 ---
