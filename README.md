@@ -175,11 +175,11 @@
 > 写代码，也写自己 —— 欢迎访问我的博客 [星河避难所](https://hejunjie.life)
 
 <!-- BLOG-POST-LIST:START -->
+- [从网页聊天到 Claude Code：一个 Skill 改变了什么](https://hejunjie.life/blog/dkqq84uh)
 - [不用翻墙、不用注册、不用月费，普通人也能用上 Claude Code](https://hejunjie.life/blog/d9d821wf)
 - [我把每天的键盘输入，变成了一张热力图](https://hejunjie.life/blog/cif84h2i)
 - [Go + Vue 打包成一个单二进制的后台系统，我做了个后台脚手架](https://hejunjie.life/blog/c9fu5hnq)
 - [一次被封 IP 之后：从 Shadowsocks 到 Xray Reality](https://hejunjie.life/blog/jaai7bt0)
-- [从番剧墙到一个 Go CLI 工具](https://hejunjie.life/blog/k9dut5nf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
