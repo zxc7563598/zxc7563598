@@ -161,7 +161,6 @@
 <br/>
 
 [encrypted-request](https://github.com/zxc7563598/php-encrypted-request) — 请求加密工具包，AES 解密、签名与时间戳验证，配套前端 [npm-encrypted-request](https://github.com/zxc7563598/npm-encrypted-request)<br/>
-[url-signer](https://github.com/zxc7563598/php-url-signer) — URL 安全签名，防篡改、防重放<br/>
 [google-authenticator](https://github.com/zxc7563598/php-google-authenticator) — TOTP 双因素认证，密钥生成、二维码创建、OTP 验证
 
 </details>
