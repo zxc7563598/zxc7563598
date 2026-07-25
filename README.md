@@ -292,25 +292,25 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-PHP                      10 hrs 6 mins       █████████░░░░░░░░░░░░░░░░   37.04 % 
-Markdown                 8 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   30.29 % 
-Bash                     1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
-Go                       1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
-JSON                     1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+PHP                      10 hrs 6 mins       █████████░░░░░░░░░░░░░░░░   36.98 % 
+Markdown                 8 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   30.24 % 
+Bash                     1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
+Go                       1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+JSON                     1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
 
 🔥 编辑器: 
-VS Code                  27 hrs 1 min        █████████████████████████   99.10 % 
+VS Code                  27 hrs 4 mins       █████████████████████████   99.10 % 
 Claude Code              14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 
 🐱‍💻 项目: 
-php-webman-essentials    8 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   32.76 % 
-bilibili-danmuji         7 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   26.20 % 
-bilibili-danmu-docker    3 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
-astro-theme-pure         1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
-github-webhook-listener  1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+php-webman-essentials    8 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   32.70 % 
+bilibili-danmuji         7 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   26.15 % 
+bilibili-danmu-docker    3 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+astro-theme-pure         2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
+github-webhook-listener  1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
 
 💻 操作系统: 
-Mac                      27 hrs 16 mins      █████████████████████████   100.00 % 
+Mac                      27 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 **我最常使用 PHP** 
@@ -326,7 +326,7 @@ Astro                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 22:45:00 UTC
+ Last Updated on 25/07/2026 22:39:00 UTC
 <!--END_SECTION:waka-->
 
 ---
