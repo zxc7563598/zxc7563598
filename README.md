@@ -265,7 +265,7 @@
 ## 编程统计
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-90%20hrs%2030%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-93%20hrs-blue?style=flat)
 
 **我是早鸟 🐤** 
 
@@ -294,33 +294,33 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Go                       15 hrs 16 mins      █████████████░░░░░░░░░░░░   51.62 % 
-PHP                      4 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
-Vue                      1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
-Markdown                 1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
-YAML                     1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+Go                       15 hrs 16 mins      █████████████░░░░░░░░░░░░   51.71 % 
+PHP                      4 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+Vue                      1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
+Markdown                 1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+YAML                     1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
 
 🔥 编辑器: 
-VS Code                  29 hrs 29 mins      █████████████████████████   99.70 % 
+VS Code                  29 hrs 26 mins      █████████████████████████   99.70 % 
 Claude Code              5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 🐱‍💻 项目: 
-bilibili-live-assistant  11 hrs 26 mins      ██████████░░░░░░░░░░░░░░░   38.69 % 
-oneadmin                 8 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   29.84 % 
-bilibili-danmuji         4 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
-vue-bilibili-danmu-admin 2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+bilibili-live-assistant  11 hrs 26 mins      ██████████░░░░░░░░░░░░░░░   38.76 % 
+oneadmin                 8 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   29.89 % 
+bilibili-danmuji         4 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+vue-bilibili-danmu-admin 2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
 bilibili-composer        45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
 
 💻 操作系统: 
-Mac                      29 hrs 34 mins      █████████████████████████   100.00 % 
+Mac                      29 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 56 mins (36.99%)
+⏱ AI Coding Time: 10 hrs 56 mins (37.05%)
 
-✍️ 15,074 lines written by AI, 2,123 lines written by hand (87.65% AI-written)
+✍️ 15,074 lines written by AI, 2,117 lines written by hand (87.69% AI-written)
 
 🔤 59,569,023 Input Tokens, 290,043 Output Tokens
 
@@ -332,10 +332,10 @@ Deepseek                 15,275 lines        ███████████�
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 87.65% of written lines came from AI
+🤖 AI-Driven — 87.69% of written lines came from AI
 📄 Detailed Prompter — average 1,350 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 21.15% of changed lines were hand-edited
+🚀 High AI Trust — 21.13% of changed lines were hand-edited
 ```
 
 **我最常使用 PHP** 
@@ -351,7 +351,7 @@ Astro                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 31/07/2026 22:43:03 UTC
+ Last Updated on 01/08/2026 22:39:15 UTC
 <!--END_SECTION:waka-->
 
 ---
