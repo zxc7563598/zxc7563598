@@ -265,7 +265,7 @@
 ## 编程统计
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-196%20hrs%2044%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-202%20hrs%2055%20mins-blue?style=flat)
 
 **我是早鸟 🐤** 
 
@@ -295,7 +295,7 @@
 
 💬 编程语言: 
 Go                       12 hrs 57 mins      ██████████░░░░░░░░░░░░░░░   40.01 % 
-Vue                      7 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   22.44 % 
+Vue                      7 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   22.43 % 
 Markdown                 3 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
 Bash                     1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
 MDX                      1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
@@ -305,35 +305,35 @@ VS Code                  32 hrs 21 mins      ███████████�
 Claude Code              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🐱‍💻 项目: 
-bilibili-live-assistant  29 hrs 8 mins       ██████████████████████░░░   89.96 % 
-astro-theme-pure         1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+bilibili-live-assistant  29 hrs 9 mins       ██████████████████████░░░   89.96 % 
+astro-theme-pure         1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
 bilibili-danmuji         39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
 直播间监听原始信息                24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
 pbtest                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 💻 操作系统: 
-Mac                      32 hrs 23 mins      █████████████████████████   100.00 % 
+Mac                      32 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 hrs 27 mins (66.23%)
+⏱ AI Coding Time: 21 hrs 27 mins (66.24%)
 
 ✍️ 11,164 lines written by AI, 1,995 lines written by hand (84.84% AI-written)
 
-🔤 2,827,883 Input Tokens, 1,462,016 Output Tokens
+🔤 2,830,568 Input Tokens, 1,462,473 Output Tokens
 
-💵 $1266.13 Estimated AI Cost This Week
+💵 $1266.86 Estimated AI Cost This Week
 
-🧠 29 AI Sessions, 139 AI Prompts
+🧠 30 AI Sessions, 140 AI Prompts
 
 Deepseek                 12,191 lines        █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 84.84% of written lines came from AI
-📚 Verbose Prompter — average 2,303 characters per prompt
+📚 Verbose Prompter — average 2,316 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 30.38% of changed lines were hand-edited
 ```
@@ -351,7 +351,7 @@ Astro                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 18/09/2026 23:39:11 UTC
+ Last Updated on 19/09/2026 23:34:10 UTC
 <!--END_SECTION:waka-->
 
 ---
