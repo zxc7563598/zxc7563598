@@ -107,6 +107,13 @@
   B站直播间机器人与积分系统。支持弹幕监听、礼物答谢、签到商城、PK 播报、定时广告、自动禁言等完整的直播互动功能，内置数据分析与弹幕词云。
 </p>
 
+<p>
+  <a href="https://github.com/zxc7563598/bilibili-live-assistant"><b>bilibili-live-assistant</b></a>
+  <img src="https://img.shields.io/github/stars/zxc7563598/bilibili-live-assistant?style=flat-square&color=f1c40f" alt="stars" />
+  <br/>
+  重构版B站直播间机器人与积分系统。跑在自己电脑上的 B 站直播机器人，支持原版机器人全部功能，免服务器、免部署、双击即用。
+</p>
+
 ### 脚手架
 
 <p>
@@ -160,7 +167,7 @@
 <summary>安全 / 认证</summary>
 <br/>
 
-[encrypted-request](https://github.com/zxc7563598/php-encrypted-request) — 请求加密工具包，AES 解密、签名与时间戳验证，配套前端 [npm-encrypted-request](https://github.com/zxc7563598/npm-encrypted-request)<br/>
+[encrypted-request](https://github.com/zxc7563598/php-encrypted-request) — 请求加密工具包，AES 解密、签名与时间戳验证，配套前端<br/>[npm-encrypted-request](https://github.com/zxc7563598/npm-encrypted-request)<br/>
 [google-authenticator](https://github.com/zxc7563598/php-google-authenticator) — TOTP 双因素认证，密钥生成、二维码创建、OTP 验证
 
 </details>
