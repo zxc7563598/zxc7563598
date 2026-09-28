@@ -301,47 +301,47 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Go                       11 hrs 52 mins      █████████████░░░░░░░░░░░░   53.10 % 
-Vue                      5 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   22.89 % 
-Markdown                 2 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
-PHP                      46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-YAML                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+Go                       11 hrs 52 mins      █████████████░░░░░░░░░░░░   53.38 % 
+Vue                      5 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   22.56 % 
+Markdown                 2 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+PHP                      46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+YAML                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
 
 🔥 编辑器: 
-VS Code                  22 hrs 15 mins      █████████████████████████   99.49 % 
+VS Code                  22 hrs 8 mins       █████████████████████████   99.49 % 
 Claude Code              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 
 🐱‍💻 项目: 
-bilibili-live-assistant  19 hrs 49 mins      ██████████████████████░░░   88.66 % 
-bilibili-danmuji         1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
-vue-bilibili-danmu-admin 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+bilibili-live-assistant  19 hrs 42 mins      ██████████████████████░░░   88.60 % 
+bilibili-danmuji         1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+vue-bilibili-danmu-admin 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
 zxc7563598               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 直播间监听原始信息                11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 
 💻 操作系统: 
-Mac                      22 hrs 21 mins      █████████████████████████   100.00 % 
+Mac                      22 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 51 mins (66.41%)
+⏱ AI Coding Time: 14 hrs 46 mins (66.4%)
 
-✍️ 9,152 lines written by AI, 640 lines written by hand (93.46% AI-written)
+✍️ 9,152 lines written by AI, 637 lines written by hand (93.49% AI-written)
 
-🔤 1,358,262 Input Tokens, 837,478 Output Tokens
+🔤 1,352,742 Input Tokens, 835,435 Output Tokens
 
-💵 $1101.77 Estimated AI Cost This Week
+💵 $1100.44 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 97 AI Prompts
+🧠 12 AI Sessions, 95 AI Prompts
 
 Deepseek                 9,541 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.46% of written lines came from AI
-📄 Detailed Prompter — average 1,433 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 12.88% of changed lines were hand-edited
+🤖 AI-Driven — 93.49% of written lines came from AI
+📄 Detailed Prompter — average 1,461 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 12.83% of changed lines were hand-edited
 ```
 
 **我最常使用 PHP** 
@@ -357,7 +357,7 @@ Astro                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 26/09/2026 23:55:46 UTC
+ Last Updated on 28/09/2026 00:02:19 UTC
 <!--END_SECTION:waka-->
 
 ---
