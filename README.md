@@ -301,47 +301,46 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Astro                    5 hrs 36 mins       ██████████████░░░░░░░░░░░   57.89 % 
-Go                       1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
-Markdown                 50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-YAML                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
-Other                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+Go                       1 hr 31 mins        ███████████░░░░░░░░░░░░░░   45.69 % 
+Astro                    59 mins             ███████░░░░░░░░░░░░░░░░░░   29.81 % 
+Markdown                 24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+YAML                     21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+SQL                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 
 🔥 编辑器: 
-VS Code                  9 hrs 40 mins       █████████████████████████   99.99 % 
-Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Claude Code              1 hr 43 mins        █████████████░░░░░░░░░░░░   51.43 % 
+VS Code                  1 hr 37 mins        ████████████░░░░░░░░░░░░░   48.57 % 
 
 🐱‍💻 项目: 
-astrodeck                5 hrs 59 mins       ████████████████░░░░░░░░░   62.00 % 
-bilibili-live-assistant  2 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   28.88 % 
-lucode-starlight-theme   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
-tmp                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
-hummingbird              9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+bilibili-live-assistant  2 hrs 10 mins       ████████████████░░░░░░░░░   65.01 % 
+astrodeck                1 hr 4 mins         ████████░░░░░░░░░░░░░░░░░   31.88 % 
+migrator                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+blaimp                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 💻 操作系统: 
-Mac                      9 hrs 40 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 28 mins (35.84%)
+⏱ AI Coding Time: 2 hrs (60.07%)
 
-✍️ 4,515 lines written by AI, 4,273 lines written by hand (51.38% AI-written)
+✍️ 4,513 lines written by AI, 103 lines written by hand (97.77% AI-written)
 
-🔤 690,532 Input Tokens, 461,510 Output Tokens
+🔤 384,843 Input Tokens, 313,583 Output Tokens
 
-💵 $250.83 Estimated AI Cost This Week
+💵 $215.76 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 38 AI Prompts
+🧠 3 AI Sessions, 12 AI Prompts
 
-Deepseek                 3,184 lines         █████████████████████████   100.00 % 
+DeepSeek                 4,563 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 51.38% of written lines came from AI
-📄 Detailed Prompter — average 570 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 60.18% of changed lines were hand-edited
+🤖 AI-Driven — 97.77% of written lines came from AI
+📄 Detailed Prompter — average 814 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 2.6% of changed lines were hand-edited
 ```
 
 **我最常使用 PHP** 
@@ -357,7 +356,7 @@ Astro                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2026 01:58:45 UTC
+ Last Updated on 07/10/2026 01:06:32 UTC
 <!--END_SECTION:waka-->
 
 ---
