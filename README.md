@@ -301,22 +301,46 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-本周没有记录到任何活动
+Astro                    5 hrs 44 mins       ████████████████████░░░░░   80.55 % 
+Bash                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+Go                       18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+JavaScript               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+Markdown                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 
 🔥 编辑器: 
-本周没有记录到任何活动
+VS Code                  5 hrs 51 mins       █████████████████████░░░░   82.26 % 
+Claude Code              1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
 
 🐱‍💻 项目: 
-本周没有记录到任何活动
+astrodeck                5 hrs 47 mins       ████████████████████░░░░░   81.42 % 
+bilibili-live-assistant  1 hr 18 mins        █████░░░░░░░░░░░░░░░░░░░░   18.43 % 
+astro-theme-pure         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+walcheck                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 操作系统: 
-本周没有记录到任何活动
+Mac                      7 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 25 mins (19.91%)
+
+✍️ 1,212 lines written by AI, 279 lines written by hand (81.29% AI-written)
+
+🔤 202,513 Input Tokens, 219,897 Output Tokens
+
+💵 $276.43 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 9 AI Prompts
+
+DeepSeek                 1,308 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 81.29% of written lines came from AI
+📄 Detailed Prompter — average 819 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 33.06% of changed lines were hand-edited
 ```
 
 **我最常使用 PHP** 
@@ -332,7 +356,7 @@ Astro                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 08/10/2026 01:21:14 UTC
+ Last Updated on 09/10/2026 01:30:16 UTC
 <!--END_SECTION:waka-->
 
 ---
