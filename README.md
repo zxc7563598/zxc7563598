@@ -272,7 +272,7 @@
 ## 编程统计
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-227%20hrs%2051%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-228%20hrs%2018%20mins-blue?style=flat)
 
 **我是早鸟 🐤** 
 
@@ -301,48 +301,48 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Astro                    6 hrs 28 mins       █████████████░░░░░░░░░░░░   53.68 % 
-Go                       2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
-Vue                      47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-Markdown                 46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
-Bash                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+Astro                    7 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   41.68 % 
+Go                       2 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
+Vue                      1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+TypeScript               1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+Markdown                 1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 
 🔥 编辑器: 
-VS Code                  8 hrs 5 mins        █████████████████░░░░░░░░   67.18 % 
-Claude Code              3 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   32.82 % 
+VS Code                  11 hrs 10 mins      ███████████████░░░░░░░░░░   61.69 % 
+Claude Code              6 hrs 56 mins       ██████████░░░░░░░░░░░░░░░   38.31 % 
 
 🐱‍💻 项目: 
-astrodeck                6 hrs 59 mins       ███████████████░░░░░░░░░░   58.05 % 
-bilibili-live-assistant  3 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   30.80 % 
-hook-exec                47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
-tmp                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
-github-webhook-listener  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+astrodeck                6 hrs 59 mins       ██████████░░░░░░░░░░░░░░░   38.59 % 
+bilibili-live-assistant  4 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   26.85 % 
+Blog                     3 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
+hook-exec                1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+astro-theme-pure         20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
 
 💻 操作系统: 
-Mac                      12 hrs 2 mins       █████████████████████████   100.00 % 
+Mac                      18 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 36 mins (38.3%)
+⏱ AI Coding Time: 7 hrs 52 mins (43.42%)
 
-✍️ 9,564 lines written by AI, 438 lines written by hand (95.62% AI-written)
+✍️ 9,896 lines written by AI, 658 lines written by hand (93.77% AI-written)
 
-🔤 592,486 Input Tokens, 544,624 Output Tokens
+🔤 983,657 Input Tokens, 708,631 Output Tokens
 
-💵 $480.62 Estimated AI Cost This Week
+💵 $573.18 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 35 AI Prompts
+🧠 14 AI Sessions, 56 AI Prompts
 
-DeepSeek                 9,707 lines         █████████████████████████   100.00 % 
+DeepSeek                 10,067 lines        █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.62% of written lines came from AI
-📚 Verbose Prompter — average 1,646 characters per prompt
+🤖 AI-Driven — 93.77% of written lines came from AI
+📚 Verbose Prompter — average 1,648 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 8.22% of changed lines were hand-edited
+🚀 High AI Trust — 10.04% of changed lines were hand-edited
 ```
 
 **我最常使用 PHP** 
@@ -358,7 +358,7 @@ Astro                    3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/10/2026 00:48:35 UTC
+ Last Updated on 13/10/2026 02:49:34 UTC
 <!--END_SECTION:waka-->
 
 ---
