@@ -246,9 +246,9 @@
 </p>
 
 <p>
-  <a href="https://github.com/zxc7563598/github-webhook-listener"><b>github-webhook-listener</b></a>
+  <a href="https://github.com/zxc7563598/hook-exec"><b>hook-exec</b></a>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/github/stars/zxc7563598/github-webhook-listener?style=flat-square&color=f1c40f" />
+  <img src="https://img.shields.io/github/stars/zxc7563598/hook-exec?style=flat-square&color=f1c40f" />
   <br/>
   接收 GitHub Webhook 并执行 Shell 命令的轻量级 Go 服务。
 </p>
