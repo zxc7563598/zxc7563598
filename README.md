@@ -272,24 +272,24 @@
 ## 编程统计
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-263%20hrs%207%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-263%20hrs%2025%20mins-blue?style=flat)
 
 **我是早鸟 🐤** 
 
 ```text
-🌞 早晨                     4383 commits        ██████░░░░░░░░░░░░░░░░░░░   22.02 % 
-🌆 白天                     11186 commits       ██████████████░░░░░░░░░░░   56.19 % 
+🌞 早晨                     4383 commits        ██████░░░░░░░░░░░░░░░░░░░   22.01 % 
+🌆 白天                     11189 commits       ██████████████░░░░░░░░░░░   56.19 % 
 🌃 傍晚                     4167 commits        █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
-🌙 晚上                     172 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+🌙 晚上                     173 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 ```
 📅 **星期一 时的我最有干劲** 
 
 ```text
 星期一                      3691 commits        █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
 星期二                      3576 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
-星期三                      3394 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
-星期四                      3372 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-星期五                      3621 commits        █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
+星期三                      3394 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
+星期四                      3375 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
+星期五                      3622 commits        █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
 星期六                      1257 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
 星期日                      997 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
 ```
@@ -301,47 +301,47 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Go                       8 hrs 33 mins       █████████░░░░░░░░░░░░░░░░   34.79 % 
-Vue                      3 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-Markdown                 3 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
-PHP                      2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
-HTML                     1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+Go                       5 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   25.28 % 
+Markdown                 4 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
+PHP                      2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
+Other                    2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+Vue                      1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
 
 🔥 编辑器: 
-Claude Code              16 hrs 21 mins      █████████████████░░░░░░░░   66.57 % 
-VS Code                  8 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   33.43 % 
+Claude Code              14 hrs 53 mins      █████████████████░░░░░░░░   67.19 % 
+VS Code                  7 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   32.81 % 
 
 🐱‍💻 项目: 
-bilibili-live-assistant  13 hrs 12 mins      █████████████░░░░░░░░░░░░   53.76 % 
-hook-exec                3 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
-Blog                     2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
-bilibili-danmuji         2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
-ai                       1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+bilibili-live-assistant  7 hrs 46 mins       █████████░░░░░░░░░░░░░░░░   35.13 % 
+Blog                     4 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
+hook-exec                2 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+bilibili-danmuji         2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+ai                       1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
 
 💻 操作系统: 
-Mac                      24 hrs 34 mins      █████████████████████████   100.00 % 
+Mac                      22 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 18 mins (74.5%)
+⏱ AI Coding Time: 17 hrs (76.76%)
 
-✍️ 5,086 lines written by AI, 236 lines written by hand (95.57% AI-written)
+✍️ 3,737 lines written by AI, 719 lines written by hand (83.86% AI-written)
 
-🔤 4,424,640 Input Tokens, 933,596 Output Tokens
+🔤 4,354,878 Input Tokens, 762,684 Output Tokens
 
-💵 $621.99 Estimated AI Cost This Week
+💵 $454.86 Estimated AI Cost This Week
 
-🧠 29 AI Sessions, 97 AI Prompts
+🧠 30 AI Sessions, 105 AI Prompts
 
-DeepSeek                 5,313 lines         █████████████████████████   100.00 % 
+DeepSeek                 3,958 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.57% of written lines came from AI
-📚 Verbose Prompter — average 1,531 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 7.76% of changed lines were hand-edited
+🤖 AI-Driven — 83.86% of written lines came from AI
+📄 Detailed Prompter — average 1,441 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 17.18% of changed lines were hand-edited
 ```
 
 **我最常使用 PHP** 
@@ -357,7 +357,7 @@ Python                   4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/10/2026 00:17:53 UTC
+ Last Updated on 23/10/2026 00:14:16 UTC
 <!--END_SECTION:waka-->
 
 ---
