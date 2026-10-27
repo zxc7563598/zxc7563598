@@ -280,13 +280,13 @@
 🌞 早晨                     4383 commits        ██████░░░░░░░░░░░░░░░░░░░   22.01 % 
 🌆 白天                     11189 commits       ██████████████░░░░░░░░░░░   56.18 % 
 🌃 傍晚                     4167 commits        █████░░░░░░░░░░░░░░░░░░░░   20.92 % 
-🌙 晚上                     176 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+🌙 晚上                     177 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 ```
 📅 **星期一 时的我最有干劲** 
 
 ```text
 星期一                      3692 commits        █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
-星期二                      3576 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
+星期二                      3577 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
 星期三                      3394 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
 星期四                      3375 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
 星期五                      3622 commits        █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
@@ -301,47 +301,47 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-PHP                      3 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   21.10 % 
-Markdown                 3 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
-HTML                     2 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-Other                    2 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
-CSV                      1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+PHP                      7 hrs 49 mins       █████████░░░░░░░░░░░░░░░░   37.18 % 
+Markdown                 3 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+Other                    1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+Bash                     1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+HTML                     1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
 
 🔥 编辑器: 
-Claude Code              10 hrs 28 mins      ██████████████░░░░░░░░░░░   55.90 % 
-VS Code                  8 hrs 16 mins       ███████████░░░░░░░░░░░░░░   44.10 % 
+VS Code                  12 hrs 25 mins      ███████████████░░░░░░░░░░   59.03 % 
+Claude Code              8 hrs 37 mins       ██████████░░░░░░░░░░░░░░░   40.97 % 
 
 🐱‍💻 项目: 
-Blog                     4 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
-hook-exec                2 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-bilibili-danmuji         2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
-tmp                      2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
-php-composer             1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+tools-laravel            8 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   39.80 % 
+Blog                     4 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
+tmp                      1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+php-composer             1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+example-app              1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
 
 💻 操作系统: 
-Mac                      18 hrs 45 mins      █████████████████████████   100.00 % 
+Mac                      21 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 12 mins (70.48%)
+⏱ AI Coding Time: 12 hrs 27 mins (59.16%)
 
-✍️ 3,234 lines written by AI, 1,014 lines written by hand (76.13% AI-written)
+✍️ 6,043 lines written by AI, 1,165 lines written by hand (83.84% AI-written)
 
-🔤 3,236,889 Input Tokens, 815,699 Output Tokens
+🔤 7,258,134 Input Tokens, 889,449 Output Tokens
 
-💵 $355.45 Estimated AI Cost This Week
+💵 $528.77 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 93 AI Prompts
+🧠 14 AI Sessions, 87 AI Prompts
 
-DeepSeek                 3,691 lines         █████████████████████████   100.00 % 
+DeepSeek                 6,687 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 76.13% of written lines came from AI
-📚 Verbose Prompter — average 1,596 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 22.36% of changed lines were hand-edited
+🤖 AI-Driven — 83.84% of written lines came from AI
+📄 Detailed Prompter — average 1,465 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 17.23% of changed lines were hand-edited
 ```
 
 **我最常使用 PHP** 
@@ -357,7 +357,7 @@ Python                   4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/10/2026 23:38:11 UTC
+ Last Updated on 27/10/2026 00:52:07 UTC
 <!--END_SECTION:waka-->
 
 ---
