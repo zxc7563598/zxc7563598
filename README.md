@@ -272,26 +272,26 @@
 ## 编程统计
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-269%20hrs%2035%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-273%20hrs%2043%20mins-blue?style=flat)
 
 **我是早鸟 🐤** 
 
 ```text
-🌞 早晨                     4383 commits        ██████░░░░░░░░░░░░░░░░░░░   22.01 % 
-🌆 白天                     11189 commits       ██████████████░░░░░░░░░░░   56.18 % 
-🌃 傍晚                     4167 commits        █████░░░░░░░░░░░░░░░░░░░░   20.92 % 
+🌞 早晨                     4397 commits        ██████░░░░░░░░░░░░░░░░░░░   22.03 % 
+🌆 白天                     11210 commits       ██████████████░░░░░░░░░░░   56.17 % 
+🌃 傍晚                     4172 commits        █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
 🌙 晚上                     177 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 ```
 📅 **星期一 时的我最有干劲** 
 
 ```text
-星期一                      3692 commits        █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
-星期二                      3577 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
-星期三                      3394 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
-星期四                      3375 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
-星期五                      3622 commits        █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
-星期六                      1258 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
-星期日                      998 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+星期一                      3710 commits        █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
+星期二                      3595 commits        █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
+星期三                      3394 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+星期四                      3375 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
+星期五                      3626 commits        █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
+星期六                      1258 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+星期日                      998 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 ```
 
 
@@ -301,63 +301,63 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-PHP                      7 hrs 49 mins       █████████░░░░░░░░░░░░░░░░   37.18 % 
-Markdown                 3 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-Other                    1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
-Bash                     1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-HTML                     1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+PHP                      10 hrs 42 mins      ████████████░░░░░░░░░░░░░   47.87 % 
+Markdown                 2 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+Bash                     1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
+Other                    1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+HTML                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
 
 🔥 编辑器: 
-VS Code                  12 hrs 25 mins      ███████████████░░░░░░░░░░   59.03 % 
-Claude Code              8 hrs 37 mins       ██████████░░░░░░░░░░░░░░░   40.97 % 
+VS Code                  14 hrs 13 mins      ████████████████░░░░░░░░░   63.55 % 
+Claude Code              8 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   36.45 % 
 
 🐱‍💻 项目: 
-tools-laravel            8 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   39.80 % 
-Blog                     4 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
-tmp                      1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
-php-composer             1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
-example-app              1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+tools-laravel            11 hrs 55 mins      █████████████░░░░░░░░░░░░   53.30 % 
+Blog                     3 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+tmp                      1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+php-composer             1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+example-app              1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
 
 💻 操作系统: 
-Mac                      21 hrs 3 mins       █████████████████████████   100.00 % 
+Mac                      22 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 27 mins (59.16%)
+⏱ AI Coding Time: 12 hrs 37 mins (56.43%)
 
-✍️ 6,043 lines written by AI, 1,165 lines written by hand (83.84% AI-written)
+✍️ 7,627 lines written by AI, 1,537 lines written by hand (83.23% AI-written)
 
-🔤 7,258,134 Input Tokens, 889,449 Output Tokens
+🔤 7,673,056 Input Tokens, 1,011,456 Output Tokens
 
-💵 $528.77 Estimated AI Cost This Week
+💵 $609.31 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 87 AI Prompts
+🧠 13 AI Sessions, 94 AI Prompts
 
-DeepSeek                 6,687 lines         █████████████████████████   100.00 % 
+DeepSeek                 8,275 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 83.84% of written lines came from AI
-📄 Detailed Prompter — average 1,465 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 17.23% of changed lines were hand-edited
+🤖 AI-Driven — 83.23% of written lines came from AI
+📚 Verbose Prompter — average 1,690 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 21.36% of changed lines were hand-edited
 ```
 
 **我最常使用 PHP** 
 
 ```text
-PHP                      32 repos            ████████████░░░░░░░░░░░░░   46.38 % 
-Go                       12 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-Vue                      9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-Astro                    4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
-Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+PHP                      33 repos            ████████████░░░░░░░░░░░░░   47.14 % 
+Go                       12 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
+Vue                      9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+Astro                    4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
 ```
 
 
 
 
- Last Updated on 27/10/2026 00:52:07 UTC
+ Last Updated on 28/10/2026 00:49:45 UTC
 <!--END_SECTION:waka-->
 
 ---
